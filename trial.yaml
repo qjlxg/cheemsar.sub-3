@@ -88,6 +88,12 @@ proxy-groups:
   - 🇭🇰 香港06 - Cyanmori
   - 🇭🇰 香港07 - Cyanmori
   - 🇭🇰 香港08 - Cyanmori
+  - 🇭🇰 香港宇宙量子专线 2x - 廉价机场
+  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
+  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
+  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
+  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
+  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 香港01 - 血液加速器
@@ -103,11 +109,23 @@ proxy-groups:
   - 🇭🇰 香港 08 - V2Link VPN
   - 🇭🇰 香港 09 - V2Link VPN
   - 🇭🇰 香港 10 - V2Link VPN
+  - 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.F - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.G | 多入口 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇭🇰 香港 BGP直连测试 - 爱猫论坛
   - 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛
   - 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛
   - 🇭🇰 香港 直连1 - 爱猫论坛
   - 🇭🇰 香港 直连2 - 爱猫论坛
+  - 🇭🇰 香港01 - uu加速首页
+  - 🇭🇰 香港02 - uu加速首页
+  - 🇭🇰 香港03 - uu加速首页
+  - 🇭🇰 香港04-备用 - uu加速首页
+  - 🇭🇰 香港05-备用 - uu加速首页
   - 🇭🇰 JCBB_香港01【vip1】 - JCBB
   - 🇭🇰 JCBB_香港02【vip1】 - JCBB
   - 🇭🇰 JCBB_香港03【vip1】 - JCBB
@@ -197,78 +215,6 @@ proxy-groups:
   - 🇭🇰 vip1 香港-16 - FastFly
   - 🇭🇰 vip1 香港-17 - FastFly
   - 🇭🇰 vip1 香港-16 测试 - FastFly
-  - 🇹🇼 SVIP|台湾0A|2倍率 - 探索者
-  - 🇹🇼 SVIP|台湾0B|2倍率 - 探索者
-  - 🇹🇼 SVIP|台湾0C|2倍率 - 探索者
-  - 🇹🇼 GCP-TW1-20240215 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW2-20240215 - Kangaroo✦Network
-  - 🇹🇼 GCP-TW3-20240215 - Kangaroo✦Network
-  - 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师国际机场
-  - 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师国际机场
-  - 🇹🇼 台湾01 - Cyanmori
-  - 🇹🇼 台湾02 - Cyanmori
-  - 🇹🇼 台湾03 - Cyanmori
-  - 🇹🇼 台湾04 - Cyanmori
-  - 🇹🇼 🇨🇳 台湾节点 速度炸裂（各种意义） - Cfcloud
-  - 🇹🇼 🇨🇳 台湾节点2 速度炸裂（各种意义） - Cfcloud
-  - 🇹🇼 🇨🇳 台湾节点3 速度炸裂（各种意义） - Cfcloud
-  - 🇹🇼 🇨🇳 台湾节点4 速度炸裂（各种意义） - Cfcloud
-  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 1 - 血液加速器
-  - 🇹🇼 台湾01 - 血液加速器
-  - 🇹🇼 台湾 01 - V2Link VPN
-  - 🇹🇼 台湾 02 - V2Link VPN
-  - 🇹🇼 台湾 03 - V2Link VPN
-  - 🇹🇼 台湾 HINET｜隧道 01 - 爱猫论坛
-  - 🇹🇼 台湾 HINET｜隧道 02 - 爱猫论坛
-  - 🇹🇼 台湾 HINET｜隧道 03 - 爱猫论坛
-  - 🇹🇼 台湾 直连1 - 爱猫论坛
-  - 🇹🇼 台湾 直连2 - 爱猫论坛
-  - 🇹🇼 台湾 直连3 - 爱猫论坛
-  - 🇹🇼 台湾 直连4 - 爱猫论坛
-  - 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB
-  - 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB
-  - 🇹🇼 台湾隧道-NF-TK-GPT - giao云
-  - 🇹🇼 台湾隧道2-NF-TK-GPT - giao云
-  - 🇹🇼 台湾隧道3-NF-TK-GPT - giao云
-  - 🇹🇼 Vip1-5.广州1-台湾A | 倍率x2 - 糖果
-  - 🇹🇼 Vip1-5.广州1-台湾B | 倍率x2 - 糖果
-  - 🇹🇼 Vip1-6.南阳-台湾A | 倍率x2 - 糖果
-  - 🇹🇼 Vip1-6.南阳-台湾B | 倍率x2 - 糖果
-  - 🇹🇼 Vip2-3.广州2-台湾A | 倍率x2 - 糖果
-  - 🇹🇼 Vip2-3.广州2-台湾B | 倍率x2 - 糖果
-  - 🇹🇼 Vip2-3.扬州-台湾A | 倍率x2 - 糖果
-  - 🇹🇼 Vip2-3.扬州-台湾B | 倍率x2 - 糖果
-  - 🇹🇼 Vip2-6.专线.深台A1 | 倍率x5 - 糖果
-  - 🇹🇼 Vip2-6.专线.深台A2 | 倍率x5 - 糖果
-  - 🇹🇼 Vip2-6.专线.深台A3 | 倍率x5 - 糖果
-  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
-  - 🇹🇼 Game 台湾01-标准 - AyucLouD-Services
-  - 🇹🇼 Game 台湾02-标准 - AyucLouD-Services
-  - 🇹🇼 Game 台湾03-专线 - AyucLouD-Services
-  - 🇹🇼 Game 台湾04-标准 - AyucLouD-Services
-  - 🇹🇼 Game 台湾05-标准 - AyucLouD-Services
-  - 🇹🇼 Game 台湾06-标准 - AyucLouD-Services
-  - 🇹🇼 Game 台湾07-标准 - AyucLouD-Services
-  - 🇹🇼 Game 台湾08-原生 - AyucLouD-Services
-  - 🇹🇼 Video 台湾A-标准 - AyucLouD-Services
-  - 🇹🇼 Video 台湾B-原生 - AyucLouD-Services
-  - 🇹🇼 Video 台湾C-原生 - AyucLouD-Services
-  - 🇹🇼 Video 台湾D-标准 - AyucLouD-Services
-  - 🇹🇼 Video 台湾E-解锁 - AyucLouD-Services
-  - 🇹🇼 Web 台湾I-标准 - AyucLouD-Services
-  - 🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2
-  - 🇹🇼 vip1 台湾-01 - FastFly
-  - 🇹🇼 vip1 台湾-02 - FastFly
-  - 🇹🇼 vip1 台湾-01 测试 - FastFly
-  - 🇹🇼 vip1 台湾-06 - FastFly
-  - 🇹🇼 vip1 台湾-07 - FastFly
-  - 🇹🇼 vip1 台湾-06 测试 - FastFly
   - VIP|新加坡🇸🇬02-5Gbps - 探索者
   - VIP|新加坡🇸🇬03-5Gbps - 探索者
   - VIP|新加坡🇸🇬04-5Gbps - 探索者
@@ -287,6 +233,8 @@ proxy-groups:
   - 🇸🇬 新加坡02 - Cyanmori
   - 🇸🇬 新加坡03 - Cyanmori
   - 🇸🇬 新加坡04 - Cyanmori
+  - 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场
+  - 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场
   - 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮
   - 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮
   - 🇸🇬 新加坡 01 - V2Link VPN
@@ -294,12 +242,19 @@ proxy-groups:
   - 🇸🇬 新加坡 03 - V2Link VPN
   - 🇸🇬 新加坡 04 - V2Link VPN
   - 🇸🇬 新加坡 05 - V2Link VPN
+  - 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇸🇬 新加坡-01 | 1.5X - 凌云网络
   - 🇸🇬 新加坡 直连1 - 爱猫论坛
   - 🇸🇬 新加坡 直连2 - 爱猫论坛
   - 🇸🇬 新加坡｜隧道 01 - 爱猫论坛
   - 🇸🇬 新加坡｜隧道 02 - 爱猫论坛
   - 🇸🇬 新加坡｜隧道 03 - 爱猫论坛
+  - 🇸🇬 新加坡03 - uu加速首页
+  - 🇸🇬 新加坡01 - uu加速首页
+  - 🇸🇬 新加坡02 - uu加速首页
   - 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB
   - 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB
   - 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB
@@ -341,6 +296,8 @@ proxy-groups:
   - 🇯🇵 日本02 - Cyanmori
   - 🇯🇵 日本03 - Cyanmori
   - 🇯🇵 日本04 - Cyanmori
+  - 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场
+  - 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场
   - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 日本01 - 血液加速器
@@ -355,6 +312,11 @@ proxy-groups:
   - 🇯🇵 日本 06 - V2Link VPN
   - 🇯🇵 日本 07 - V2Link VPN
   - 🇯🇵 日本 08 - V2Link VPN
+  - 🇯🇵 日本-新疆直连 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇯🇵 日本-01 | 2X - 凌云网络
   - 🇯🇵 日本-02 | 2X - 凌云网络
   - 🇯🇵 日本-03 | 2X - 凌云网络
@@ -368,6 +330,8 @@ proxy-groups:
   - 🇯🇵 JCBB_日本04【vip1】 - JCBB
   - 🇯🇵 JCBB_日本05【vip1】 - JCBB
   - 🇯🇵 JCBB_日本06【vip1】 - JCBB
+  - 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive
+  - 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器
   - 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器
   - 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器
@@ -449,6 +413,10 @@ proxy-groups:
   - 🇺🇲 美国05 - Cyanmori
   - 🇺🇲 美国06 - Cyanmori
   - 🇺🇲 美国07 - Cyanmori
+  - 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场
+  - 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场
+  - 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场
+  - 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场
   - 🇺🇸 美国01 - Cfcloud
   - 🇺🇸 美国02 - Cfcloud
   - 🇺🇸 美国 1 - 西瓜皮是真的皮
@@ -460,6 +428,11 @@ proxy-groups:
   - 🇺🇸 美国 03 - V2Link VPN
   - 🇺🇸 美国 04 - V2Link VPN
   - 🇺🇸 美国 05 - V2Link VPN
+  - 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇺🇸 美国-01 | 2X - 凌云网络
   - 🇺🇸 美国-02 | 2X - 凌云网络
   - 🇺🇸 美国-03 | 2X - 凌云网络
@@ -469,6 +442,9 @@ proxy-groups:
   - 🇺🇸 美国 直连2 - 爱猫论坛
   - 🇺🇸 美国 直连3 - 爱猫论坛
   - 🇺🇸 美国 直连4 - 爱猫论坛
+  - 🇺🇸 美国02 - uu加速首页
+  - 🇺🇸 美国01 - uu加速首页
+  - 🇺🇸 美国04 - uu加速首页
   - 🇺🇸 JCBB_ 美国01【vip1】 - JCBB
   - 🇺🇸 JCBB_ 美国02【vip1】 - JCBB
   - 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB
@@ -478,6 +454,9 @@ proxy-groups:
   - 🇺🇸 JCBB_美国05_1【vip1】 - JCBB
   - 🇺🇸 JCBB_美国05【vip1】 - JCBB
   - 🇺🇸 JCBB_美国06【vip1】 - JCBB
+  - 🇺🇸 US000高速 - NovaLive
+  - 🇺🇸 US180|CN2GIA - NovaLive
+  - 🇺🇸 US181|CN2GIA - NovaLive
   - 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器
   - 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器
   - 🇺🇸 美国隧道1-NF-TK-GPT - giao云
@@ -553,6 +532,84 @@ proxy-groups:
   - 🇺🇸 vip1 美国-12 - FastFly
   - 🇺🇸 vip1 美国-13 - FastFly
   - 🇺🇸 vip1 美国-11 测试 - FastFly
+  - 🇹🇼 SVIP|台湾0A|2倍率 - 探索者
+  - 🇹🇼 SVIP|台湾0B|2倍率 - 探索者
+  - 🇹🇼 SVIP|台湾0C|2倍率 - 探索者
+  - 🇹🇼 GCP-TW1-20240215 - Kangaroo✦Network
+  - 🇹🇼 GCP-TW2-20240215 - Kangaroo✦Network
+  - 🇹🇼 GCP-TW3-20240215 - Kangaroo✦Network
+  - 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师国际机场
+  - 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师国际机场
+  - 🇹🇼 台湾01 - Cyanmori
+  - 🇹🇼 台湾02 - Cyanmori
+  - 🇹🇼 台湾03 - Cyanmori
+  - 🇹🇼 台湾04 - Cyanmori
+  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
+  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
+  - 🇹🇼 🇨🇳 台湾节点 速度炸裂（各种意义） - Cfcloud
+  - 🇹🇼 🇨🇳 台湾节点2 速度炸裂（各种意义） - Cfcloud
+  - 🇹🇼 🇨🇳 台湾节点3 速度炸裂（各种意义） - Cfcloud
+  - 🇹🇼 🇨🇳 台湾节点4 速度炸裂（各种意义） - Cfcloud
+  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
+  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
+  - 🇹🇼 台湾 1 - 血液加速器
+  - 🇹🇼 台湾01 - 血液加速器
+  - 🇹🇼 台湾 01 - V2Link VPN
+  - 🇹🇼 台湾 02 - V2Link VPN
+  - 🇹🇼 台湾 03 - V2Link VPN
+  - 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 台湾 HINET｜隧道 01 - 爱猫论坛
+  - 🇹🇼 台湾 HINET｜隧道 02 - 爱猫论坛
+  - 🇹🇼 台湾 HINET｜隧道 03 - 爱猫论坛
+  - 🇹🇼 台湾 直连1 - 爱猫论坛
+  - 🇹🇼 台湾 直连2 - 爱猫论坛
+  - 🇹🇼 台湾 直连3 - 爱猫论坛
+  - 🇹🇼 台湾 直连4 - 爱猫论坛
+  - 🇹🇼 台湾01 - uu加速首页
+  - 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 05_1【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 05【vip1】 - JCBB
+  - 🇹🇼 JCBB_ 台湾 06【vip1】 - JCBB
+  - 🇹🇼 台湾隧道-NF-TK-GPT - giao云
+  - 🇹🇼 台湾隧道2-NF-TK-GPT - giao云
+  - 🇹🇼 台湾隧道3-NF-TK-GPT - giao云
+  - 🇹🇼 Vip1-5.广州1-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip1-5.广州1-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip1-6.南阳-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip1-6.南阳-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.广州2-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.广州2-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.扬州-台湾A | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-3.扬州-台湾B | 倍率x2 - 糖果
+  - 🇹🇼 Vip2-6.专线.深台A1 | 倍率x5 - 糖果
+  - 🇹🇼 Vip2-6.专线.深台A2 | 倍率x5 - 糖果
+  - 🇹🇼 Vip2-6.专线.深台A3 | 倍率x5 - 糖果
+  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
+  - 🇹🇼 Game 台湾01-标准 - AyucLouD-Services
+  - 🇹🇼 Game 台湾02-标准 - AyucLouD-Services
+  - 🇹🇼 Game 台湾03-专线 - AyucLouD-Services
+  - 🇹🇼 Game 台湾04-标准 - AyucLouD-Services
+  - 🇹🇼 Game 台湾05-标准 - AyucLouD-Services
+  - 🇹🇼 Game 台湾06-标准 - AyucLouD-Services
+  - 🇹🇼 Game 台湾07-标准 - AyucLouD-Services
+  - 🇹🇼 Game 台湾08-原生 - AyucLouD-Services
+  - 🇹🇼 Video 台湾A-标准 - AyucLouD-Services
+  - 🇹🇼 Video 台湾B-原生 - AyucLouD-Services
+  - 🇹🇼 Video 台湾C-原生 - AyucLouD-Services
+  - 🇹🇼 Video 台湾D-标准 - AyucLouD-Services
+  - 🇹🇼 Video 台湾E-解锁 - AyucLouD-Services
+  - 🇹🇼 Web 台湾I-标准 - AyucLouD-Services
+  - 🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2
+  - 🇹🇼 vip1 台湾-01 - FastFly
+  - 🇹🇼 vip1 台湾-02 - FastFly
+  - 🇹🇼 vip1 台湾-01 测试 - FastFly
+  - 🇹🇼 vip1 台湾-06 - FastFly
+  - 🇹🇼 vip1 台湾-07 - FastFly
+  - 🇹🇼 vip1 台湾-06 测试 - FastFly
   - 🇲🇳 【I】蒙古 普通 A - MN - SockBoom
   - v2ray 中东巴林节点VIP 671 - 紫云VPN服务商
   - v2ray 中东巴林节点VIP CDN - 紫云VPN服务商
@@ -583,6 +640,7 @@ proxy-groups:
   - 🇫🇷 法国1 - 大师国际机场
   - 🇫🇷 法国2 - 大师国际机场
   - 🇰🇷 韩国-三网优化2 - 青云互联网-
+  - ℹ️ 永久官网:www.猫云.net - 猫云
   - ℹ️ 官网：https://1100.gg - Cyanmori
   - 🇮🇳 印度01 - Cyanmori
   - 🇮🇳 印度02 - Cyanmori
@@ -627,12 +685,32 @@ proxy-groups:
   - 🇮🇱 以色列 - V2Link VPN
   - 🇸🇪 瑞典 - V2Link VPN
   - 🇵🇱 波兰 - V2Link VPN
+  - 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇮🇩 ID.印度尼西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇷 TUR.土耳其.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇭 TH.泰国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇻🇳 VN.越南.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇦🇺 AU.澳洲.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇮🇳 IN.印度.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇫🇷 FR.法国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇬🇧 UK.英国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇩🇪 FRK.德国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇷🇺 RU.俄国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - ℹ️ 导航页：www.可乐云.net - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 凌云网络 www.ly520.me - 凌云网络
   - 🇬🇧 英国-01 | 1.8X - 凌云网络
   - 🇩🇪 德国-01 | 1.8X - 凌云网络
   - 🇹🇷 土耳其 原生｜隧道 01 - 爱猫论坛
   - 🇩🇪 德国｜隧道 01 - 爱猫论坛
   - 🇬🇧 英国｜隧道 01 - 爱猫论坛
+  - ℹ️ 最新官网：www.uuvpn.life - uu加速首页
+  - ℹ️ x 代表使用倍率 - uu加速首页
+  - ℹ️ 用不了，请更新订阅 - uu加速首页
+  - ℹ️ 永久地址请查看活动公告 - uu加速首页
+  - 🇬🇧 英国02 - uu加速首页
+  - 🇻🇳 越南01 - uu加速首页
   - 🇩🇪 JCBB_德国01【vip1】 - JCBB
   - 🇩🇪 JCBB_德国02【vip1】 - JCBB
   - 🇩🇪 JCBB_德国03【vip1】 - JCBB
@@ -734,6 +812,121 @@ proxy-groups:
   - 🇬🇧 vip1 英国-02 - FastFly
   - 🇬🇧 vip1 英国-01 测试 - FastFly
   - 🇲🇴 澳门NO.2 - 大师国际机场
+  - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
+  - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
+  - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
+  - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
+  - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
+  - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
+  - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  - 🇭🇰 广港•香港309•专线 - 飞翔吧
+  - 🇭🇰 中转•香港301•高速 - 飞翔吧
+  - 🇭🇰 中转•香港102•高速 - 飞翔吧
+  - 🇭🇰 中转•香港307•高速 - 飞翔吧
+  - 🇭🇰 广港•香港143•高速 - 飞翔吧
+  - 🇭🇰 广港•香港259•高速 - 飞翔吧
+  - 🇭🇰 广港•香港269•高速 - 飞翔吧
+  - 🇭🇰 广港•香港278•高速 - 飞翔吧
+  - 🇭🇰 广港•香港279•高速 - 飞翔吧
+  - 🇭🇰 广港•香港294•高速 - 飞翔吧
+  - 🇭🇰 广港•香港309•专线 - 飞翔吧
+  - 🇭🇰 中转•香港301•高速 - 飞翔吧
+  - 🇭🇰 中转•香港102•高速 - 飞翔吧
+  - 🇭🇰 中转•香港307•高速 - 飞翔吧
+  - 🇭🇰 广港•香港143•高速 - 飞翔吧
+  - 🇭🇰 广港•香港259•高速 - 飞翔吧
+  - 🇭🇰 广港•香港269•高速 - 飞翔吧
+  - 🇭🇰 广港•香港278•高速 - 飞翔吧
+  - 🇭🇰 广港•香港279•高速 - 飞翔吧
+  - 🇭🇰 广港•香港294•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾91•原生 - 飞翔吧
+  - 🇹🇼 广港•台湾261•高速 - 飞翔吧
+  - 🇹🇼 广港•台湾262•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾91•原生 - 飞翔吧
+  - 🇹🇼 广港•台湾261•高速 - 飞翔吧
+  - 🇹🇼 广港•台湾262•高速 - 飞翔吧
+  - 🇰🇷 广港•韩国263•高速 - 飞翔吧
+  - 🇰🇷 广港•韩国264•高速 - 飞翔吧
+  - 🇬🇧 中转•英国267•高速 - 飞翔吧
+  - 🇬🇧 中转•英国268•高速 - 飞翔吧
+  - 🇩🇪 中转•德国302•GPT - 飞翔吧
+  - 🇩🇪 中转•德国303•GPT - 飞翔吧
+  - 🇩🇪 中转•德国304•GPT - 飞翔吧
+  - 🇩🇪 中转•德国305•GPT - 飞翔吧
+  - 🇩🇪 中转•德国306•GPT - 飞翔吧
+  - 🇰🇷 广港•韩国263•高速 - 飞翔吧
+  - 🇰🇷 广港•韩国264•高速 - 飞翔吧
+  - 🇬🇧 中转•英国267•高速 - 飞翔吧
+  - 🇬🇧 中转•英国268•高速 - 飞翔吧
+  - 🇩🇪 中转•德国302•GPT - 飞翔吧
+  - 🇩🇪 中转•德国303•GPT - 飞翔吧
+  - 🇩🇪 中转•德国304•GPT - 飞翔吧
+  - 🇩🇪 中转•德国305•GPT - 飞翔吧
+  - 🇩🇪 中转•德国306•GPT - 飞翔吧
+  - 🇺🇸 中转•美国295•高速 - 飞翔吧
+  - 🇺🇸 中转•美国296•高速 - 飞翔吧
+  - 🇺🇸 中转•美国308•高速 - 飞翔吧
+  - 🇺🇸 中转•美国40•高速 - 飞翔吧
+  - 🇺🇸 中转•美国41•原生 - 飞翔吧
+  - 🇺🇸 中转•美国61•高速 - 飞翔吧
+  - 🇺🇸 广港•美国266•高速 - 飞翔吧
+  - 🇺🇸 广港•美国288•高速 - 飞翔吧
+  - 🇺🇸 中转•美国295•高速 - 飞翔吧
+  - 🇺🇸 中转•美国296•高速 - 飞翔吧
+  - 🇺🇸 中转•美国308•高速 - 飞翔吧
+  - 🇺🇸 中转•美国40•高速 - 飞翔吧
+  - 🇺🇸 中转•美国41•原生 - 飞翔吧
+  - 🇺🇸 中转•美国61•高速 - 飞翔吧
+  - 🇺🇸 广港•美国266•高速 - 飞翔吧
+  - 🇺🇸 广港•美国288•高速 - 飞翔吧
+  - 🇯🇵 中转•日本298•高速 - 飞翔吧
+  - 🇯🇵 中转•日本300•原生 - 飞翔吧
+  - 🇯🇵 日本•高速114•高速 - 飞翔吧
+  - 🇯🇵 日本•高速115•高速 - 飞翔吧
+  - 🇯🇵 日本•高速139•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速140•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速141•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速142•原生 - 飞翔吧
+  - 🇯🇵 日本•高速59•青铜 - 飞翔吧
+  - 🇯🇵 日本•高速71•高速 - 飞翔吧
+  - 🇯🇵 日本•高速76•高速 - 飞翔吧
+  - 🇯🇵 中转•日本298•高速 - 飞翔吧
+  - 🇯🇵 中转•日本300•原生 - 飞翔吧
+  - 🇯🇵 日本•高速114•高速 - 飞翔吧
+  - 🇯🇵 日本•高速115•高速 - 飞翔吧
+  - 🇯🇵 日本•高速139•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速140•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速141•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速142•原生 - 飞翔吧
+  - 🇯🇵 日本•高速59•青铜 - 飞翔吧
+  - 🇯🇵 日本•高速71•高速 - 飞翔吧
+  - 🇯🇵 日本•高速76•高速 - 飞翔吧
+  - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
+  - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
+  - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
+  - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
+  - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
+  - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
+  - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
+  - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
+  - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
+  - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -842,6 +1035,12 @@ proxy-groups:
   - 🇭🇰 香港06 - Cyanmori
   - 🇭🇰 香港07 - Cyanmori
   - 🇭🇰 香港08 - Cyanmori
+  - 🇭🇰 香港宇宙量子专线 2x - 廉价机场
+  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
+  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
+  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
+  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
+  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 香港01 - 血液加速器
@@ -857,11 +1056,23 @@ proxy-groups:
   - 🇭🇰 香港 08 - V2Link VPN
   - 🇭🇰 香港 09 - V2Link VPN
   - 🇭🇰 香港 10 - V2Link VPN
+  - 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.F - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.G | 多入口 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇭🇰 香港 BGP直连测试 - 爱猫论坛
   - 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛
   - 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛
   - 🇭🇰 香港 直连1 - 爱猫论坛
   - 🇭🇰 香港 直连2 - 爱猫论坛
+  - 🇭🇰 香港01 - uu加速首页
+  - 🇭🇰 香港02 - uu加速首页
+  - 🇭🇰 香港03 - uu加速首页
+  - 🇭🇰 香港04-备用 - uu加速首页
+  - 🇭🇰 香港05-备用 - uu加速首页
   - 🇭🇰 JCBB_香港01【vip1】 - JCBB
   - 🇭🇰 JCBB_香港02【vip1】 - JCBB
   - 🇭🇰 JCBB_香港03【vip1】 - JCBB
@@ -951,6 +1162,26 @@ proxy-groups:
   - 🇭🇰 vip1 香港-16 - FastFly
   - 🇭🇰 vip1 香港-17 - FastFly
   - 🇭🇰 vip1 香港-16 测试 - FastFly
+  - 🇭🇰 广港•香港309•专线 - 飞翔吧
+  - 🇭🇰 中转•香港301•高速 - 飞翔吧
+  - 🇭🇰 中转•香港102•高速 - 飞翔吧
+  - 🇭🇰 中转•香港307•高速 - 飞翔吧
+  - 🇭🇰 广港•香港143•高速 - 飞翔吧
+  - 🇭🇰 广港•香港259•高速 - 飞翔吧
+  - 🇭🇰 广港•香港269•高速 - 飞翔吧
+  - 🇭🇰 广港•香港278•高速 - 飞翔吧
+  - 🇭🇰 广港•香港279•高速 - 飞翔吧
+  - 🇭🇰 广港•香港294•高速 - 飞翔吧
+  - 🇭🇰 广港•香港309•专线 - 飞翔吧
+  - 🇭🇰 中转•香港301•高速 - 飞翔吧
+  - 🇭🇰 中转•香港102•高速 - 飞翔吧
+  - 🇭🇰 中转•香港307•高速 - 飞翔吧
+  - 🇭🇰 广港•香港143•高速 - 飞翔吧
+  - 🇭🇰 广港•香港259•高速 - 飞翔吧
+  - 🇭🇰 广港•香港269•高速 - 飞翔吧
+  - 🇭🇰 广港•香港278•高速 - 飞翔吧
+  - 🇭🇰 广港•香港279•高速 - 飞翔吧
+  - 🇭🇰 广港•香港294•高速 - 飞翔吧
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -969,6 +1200,8 @@ proxy-groups:
   - 🇹🇼 台湾02 - Cyanmori
   - 🇹🇼 台湾03 - Cyanmori
   - 🇹🇼 台湾04 - Cyanmori
+  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
+  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
   - 🇹🇼 🇨🇳 台湾节点 速度炸裂（各种意义） - Cfcloud
   - 🇹🇼 🇨🇳 台湾节点2 速度炸裂（各种意义） - Cfcloud
   - 🇹🇼 🇨🇳 台湾节点3 速度炸裂（各种意义） - Cfcloud
@@ -980,6 +1213,9 @@ proxy-groups:
   - 🇹🇼 台湾 01 - V2Link VPN
   - 🇹🇼 台湾 02 - V2Link VPN
   - 🇹🇼 台湾 03 - V2Link VPN
+  - 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇹🇼 台湾 HINET｜隧道 01 - 爱猫论坛
   - 🇹🇼 台湾 HINET｜隧道 02 - 爱猫论坛
   - 🇹🇼 台湾 HINET｜隧道 03 - 爱猫论坛
@@ -987,6 +1223,7 @@ proxy-groups:
   - 🇹🇼 台湾 直连2 - 爱猫论坛
   - 🇹🇼 台湾 直连3 - 爱猫论坛
   - 🇹🇼 台湾 直连4 - 爱猫论坛
+  - 🇹🇼 台湾01 - uu加速首页
   - 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB
   - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
   - 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB
@@ -1029,6 +1266,14 @@ proxy-groups:
   - 🇹🇼 vip1 台湾-06 - FastFly
   - 🇹🇼 vip1 台湾-07 - FastFly
   - 🇹🇼 vip1 台湾-06 测试 - FastFly
+  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾91•原生 - 飞翔吧
+  - 🇹🇼 广港•台湾261•高速 - 飞翔吧
+  - 🇹🇼 广港•台湾262•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾91•原生 - 飞翔吧
+  - 🇹🇼 广港•台湾261•高速 - 飞翔吧
+  - 🇹🇼 广港•台湾262•高速 - 飞翔吧
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -1091,6 +1336,12 @@ proxy-groups:
   - 🇭🇰 香港06 - Cyanmori
   - 🇭🇰 香港07 - Cyanmori
   - 🇭🇰 香港08 - Cyanmori
+  - 🇭🇰 香港宇宙量子专线 2x - 廉价机场
+  - 🇭🇰 香港BGP 三网直连1x - 廉价机场
+  - 🇭🇰香港BGP 中转 01 1.5x - 廉价机场
+  - 🇭🇰香港BGP 中转 02 1.5x - 廉价机场
+  - 🇭🇰香港BGP 中转 03 1.5x - 廉价机场
+  - 🇭🇰香港BGP 中转 04 1.5x - 廉价机场
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 香港01 - 血液加速器
@@ -1106,11 +1357,23 @@ proxy-groups:
   - 🇭🇰 香港 08 - V2Link VPN
   - 🇭🇰 香港 09 - V2Link VPN
   - 🇭🇰 香港 10 - V2Link VPN
+  - 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.F - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.G | 多入口 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇭🇰 香港 BGP直连测试 - 爱猫论坛
   - 🇭🇰 香港 HKT｜隧道 02 - 爱猫论坛
   - 🇭🇰 香港 HKT｜隧道 03 - 爱猫论坛
   - 🇭🇰 香港 直连1 - 爱猫论坛
   - 🇭🇰 香港 直连2 - 爱猫论坛
+  - 🇭🇰 香港01 - uu加速首页
+  - 🇭🇰 香港02 - uu加速首页
+  - 🇭🇰 香港03 - uu加速首页
+  - 🇭🇰 香港04-备用 - uu加速首页
+  - 🇭🇰 香港05-备用 - uu加速首页
   - 🇭🇰 JCBB_香港01【vip1】 - JCBB
   - 🇭🇰 JCBB_香港02【vip1】 - JCBB
   - 🇭🇰 JCBB_香港03【vip1】 - JCBB
@@ -1212,6 +1475,8 @@ proxy-groups:
   - 🇹🇼 台湾02 - Cyanmori
   - 🇹🇼 台湾03 - Cyanmori
   - 🇹🇼 台湾04 - Cyanmori
+  - 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场
+  - 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场
   - 🇹🇼 🇨🇳 台湾节点 速度炸裂（各种意义） - Cfcloud
   - 🇹🇼 🇨🇳 台湾节点2 速度炸裂（各种意义） - Cfcloud
   - 🇹🇼 🇨🇳 台湾节点3 速度炸裂（各种意义） - Cfcloud
@@ -1223,6 +1488,9 @@ proxy-groups:
   - 🇹🇼 台湾 01 - V2Link VPN
   - 🇹🇼 台湾 02 - V2Link VPN
   - 🇹🇼 台湾 03 - V2Link VPN
+  - 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇹🇼 台湾 HINET｜隧道 01 - 爱猫论坛
   - 🇹🇼 台湾 HINET｜隧道 02 - 爱猫论坛
   - 🇹🇼 台湾 HINET｜隧道 03 - 爱猫论坛
@@ -1230,6 +1498,7 @@ proxy-groups:
   - 🇹🇼 台湾 直连2 - 爱猫论坛
   - 🇹🇼 台湾 直连3 - 爱猫论坛
   - 🇹🇼 台湾 直连4 - 爱猫论坛
+  - 🇹🇼 台湾01 - uu加速首页
   - 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB
   - 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB
   - 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB
@@ -1273,6 +1542,34 @@ proxy-groups:
   - 🇹🇼 vip1 台湾-07 - FastFly
   - 🇹🇼 vip1 台湾-06 测试 - FastFly
   - 🇲🇴 澳门NO.2 - 大师国际机场
+  - 🇭🇰 广港•香港309•专线 - 飞翔吧
+  - 🇭🇰 中转•香港301•高速 - 飞翔吧
+  - 🇭🇰 中转•香港102•高速 - 飞翔吧
+  - 🇭🇰 中转•香港307•高速 - 飞翔吧
+  - 🇭🇰 广港•香港143•高速 - 飞翔吧
+  - 🇭🇰 广港•香港259•高速 - 飞翔吧
+  - 🇭🇰 广港•香港269•高速 - 飞翔吧
+  - 🇭🇰 广港•香港278•高速 - 飞翔吧
+  - 🇭🇰 广港•香港279•高速 - 飞翔吧
+  - 🇭🇰 广港•香港294•高速 - 飞翔吧
+  - 🇭🇰 广港•香港309•专线 - 飞翔吧
+  - 🇭🇰 中转•香港301•高速 - 飞翔吧
+  - 🇭🇰 中转•香港102•高速 - 飞翔吧
+  - 🇭🇰 中转•香港307•高速 - 飞翔吧
+  - 🇭🇰 广港•香港143•高速 - 飞翔吧
+  - 🇭🇰 广港•香港259•高速 - 飞翔吧
+  - 🇭🇰 广港•香港269•高速 - 飞翔吧
+  - 🇭🇰 广港•香港278•高速 - 飞翔吧
+  - 🇭🇰 广港•香港279•高速 - 飞翔吧
+  - 🇭🇰 广港•香港294•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾91•原生 - 飞翔吧
+  - 🇹🇼 广港•台湾261•高速 - 飞翔吧
+  - 🇹🇼 广港•台湾262•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾100•高速 - 飞翔吧
+  - 🇹🇼 中转•台湾91•原生 - 飞翔吧
+  - 🇹🇼 广港•台湾261•高速 - 飞翔吧
+  - 🇹🇼 广港•台湾262•高速 - 飞翔吧
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -1297,6 +1594,8 @@ proxy-groups:
   - 🇸🇬 新加坡02 - Cyanmori
   - 🇸🇬 新加坡03 - Cyanmori
   - 🇸🇬 新加坡04 - Cyanmori
+  - 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场
+  - 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场
   - 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮
   - 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮
   - 🇸🇬 新加坡 01 - V2Link VPN
@@ -1304,12 +1603,19 @@ proxy-groups:
   - 🇸🇬 新加坡 03 - V2Link VPN
   - 🇸🇬 新加坡 04 - V2Link VPN
   - 🇸🇬 新加坡 05 - V2Link VPN
+  - 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇸🇬 新加坡-01 | 1.5X - 凌云网络
   - 🇸🇬 新加坡 直连1 - 爱猫论坛
   - 🇸🇬 新加坡 直连2 - 爱猫论坛
   - 🇸🇬 新加坡｜隧道 01 - 爱猫论坛
   - 🇸🇬 新加坡｜隧道 02 - 爱猫论坛
   - 🇸🇬 新加坡｜隧道 03 - 爱猫论坛
+  - 🇸🇬 新加坡03 - uu加速首页
+  - 🇸🇬 新加坡01 - uu加速首页
+  - 🇸🇬 新加坡02 - uu加速首页
   - 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB
   - 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB
   - 🇸🇬 JCBB_ 新加坡 03【vip1 】 - JCBB
@@ -1333,6 +1639,16 @@ proxy-groups:
   - 🇸🇬 vip1 新加坡-06 - FastFly
   - 🇸🇬 vip1 新加坡-07 - FastFly
   - 🇸🇬 vip1 新加坡-06 测试 - FastFly
+  - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
+  - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
+  - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
+  - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
+  - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
+  - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
+  - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
+  - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
+  - 🇸🇬 新加坡•高速129•高速 - 飞翔吧
+  - 🇸🇬 新加坡•高速130•铂金 - 飞翔吧
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -1357,6 +1673,8 @@ proxy-groups:
   - 🇯🇵 日本02 - Cyanmori
   - 🇯🇵 日本03 - Cyanmori
   - 🇯🇵 日本04 - Cyanmori
+  - 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场
+  - 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场
   - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 日本01 - 血液加速器
@@ -1371,6 +1689,11 @@ proxy-groups:
   - 🇯🇵 日本 06 - V2Link VPN
   - 🇯🇵 日本 07 - V2Link VPN
   - 🇯🇵 日本 08 - V2Link VPN
+  - 🇯🇵 日本-新疆直连 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇯🇵 日本-01 | 2X - 凌云网络
   - 🇯🇵 日本-02 | 2X - 凌云网络
   - 🇯🇵 日本-03 | 2X - 凌云网络
@@ -1384,6 +1707,8 @@ proxy-groups:
   - 🇯🇵 JCBB_日本04【vip1】 - JCBB
   - 🇯🇵 JCBB_日本05【vip1】 - JCBB
   - 🇯🇵 JCBB_日本06【vip1】 - JCBB
+  - 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive
+  - 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive
   - 🇯🇵 日本 | 直连3 - BIUBIU FAST 加速器
   - 🇯🇵 日本|直连SS3 - BIUBIU FAST 加速器
   - 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST 加速器
@@ -1423,6 +1748,28 @@ proxy-groups:
   - 🇯🇵 vip1 日本-06 - FastFly
   - 🇯🇵 vip1 日本-07 - FastFly
   - 🇯🇵 vip1 日本-06 测试 - FastFly
+  - 🇯🇵 中转•日本298•高速 - 飞翔吧
+  - 🇯🇵 中转•日本300•原生 - 飞翔吧
+  - 🇯🇵 日本•高速114•高速 - 飞翔吧
+  - 🇯🇵 日本•高速115•高速 - 飞翔吧
+  - 🇯🇵 日本•高速139•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速140•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速141•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速142•原生 - 飞翔吧
+  - 🇯🇵 日本•高速59•青铜 - 飞翔吧
+  - 🇯🇵 日本•高速71•高速 - 飞翔吧
+  - 🇯🇵 日本•高速76•高速 - 飞翔吧
+  - 🇯🇵 中转•日本298•高速 - 飞翔吧
+  - 🇯🇵 中转•日本300•原生 - 飞翔吧
+  - 🇯🇵 日本•高速114•高速 - 飞翔吧
+  - 🇯🇵 日本•高速115•高速 - 飞翔吧
+  - 🇯🇵 日本•高速139•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速140•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速141•铂金 - 飞翔吧
+  - 🇯🇵 日本•高速142•原生 - 飞翔吧
+  - 🇯🇵 日本•高速59•青铜 - 飞翔吧
+  - 🇯🇵 日本•高速71•高速 - 飞翔吧
+  - 🇯🇵 日本•高速76•高速 - 飞翔吧
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -1471,6 +1818,10 @@ proxy-groups:
   - 🇺🇲 美国05 - Cyanmori
   - 🇺🇲 美国06 - Cyanmori
   - 🇺🇲 美国07 - Cyanmori
+  - 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场
+  - 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场
+  - 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场
+  - 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场
   - 🇺🇸 美国01 - Cfcloud
   - 🇺🇸 美国02 - Cfcloud
   - 🇺🇸 美国 1 - 西瓜皮是真的皮
@@ -1482,6 +1833,11 @@ proxy-groups:
   - 🇺🇸 美国 03 - V2Link VPN
   - 🇺🇸 美国 04 - V2Link VPN
   - 🇺🇸 美国 05 - V2Link VPN
+  - 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇺🇸 美国-01 | 2X - 凌云网络
   - 🇺🇸 美国-02 | 2X - 凌云网络
   - 🇺🇸 美国-03 | 2X - 凌云网络
@@ -1491,6 +1847,9 @@ proxy-groups:
   - 🇺🇸 美国 直连2 - 爱猫论坛
   - 🇺🇸 美国 直连3 - 爱猫论坛
   - 🇺🇸 美国 直连4 - 爱猫论坛
+  - 🇺🇸 美国02 - uu加速首页
+  - 🇺🇸 美国01 - uu加速首页
+  - 🇺🇸 美国04 - uu加速首页
   - 🇺🇸 JCBB_ 美国01【vip1】 - JCBB
   - 🇺🇸 JCBB_ 美国02【vip1】 - JCBB
   - 🇺🇸 JCBB_ 美国02_1【vip1】 - JCBB
@@ -1500,6 +1859,9 @@ proxy-groups:
   - 🇺🇸 JCBB_美国05_1【vip1】 - JCBB
   - 🇺🇸 JCBB_美国05【vip1】 - JCBB
   - 🇺🇸 JCBB_美国06【vip1】 - JCBB
+  - 🇺🇸 US000高速 - NovaLive
+  - 🇺🇸 US180|CN2GIA - NovaLive
+  - 🇺🇸 US181|CN2GIA - NovaLive
   - 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST 加速器
   - 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST 加速器
   - 🇺🇸 美国隧道1-NF-TK-GPT - giao云
@@ -1575,6 +1937,43 @@ proxy-groups:
   - 🇺🇸 vip1 美国-12 - FastFly
   - 🇺🇸 vip1 美国-13 - FastFly
   - 🇺🇸 vip1 美国-11 测试 - FastFly
+  - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
+  - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
+  - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
+  - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
+  - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
+  - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
+  - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  - 🇺🇸 中转•美国295•高速 - 飞翔吧
+  - 🇺🇸 中转•美国296•高速 - 飞翔吧
+  - 🇺🇸 中转•美国308•高速 - 飞翔吧
+  - 🇺🇸 中转•美国40•高速 - 飞翔吧
+  - 🇺🇸 中转•美国41•原生 - 飞翔吧
+  - 🇺🇸 中转•美国61•高速 - 飞翔吧
+  - 🇺🇸 广港•美国266•高速 - 飞翔吧
+  - 🇺🇸 广港•美国288•高速 - 飞翔吧
+  - 🇺🇸 中转•美国295•高速 - 飞翔吧
+  - 🇺🇸 中转•美国296•高速 - 飞翔吧
+  - 🇺🇸 中转•美国308•高速 - 飞翔吧
+  - 🇺🇸 中转•美国40•高速 - 飞翔吧
+  - 🇺🇸 中转•美国41•原生 - 飞翔吧
+  - 🇺🇸 中转•美国61•高速 - 飞翔吧
+  - 🇺🇸 广港•美国266•高速 - 飞翔吧
+  - 🇺🇸 广港•美国288•高速 - 飞翔吧
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -1611,6 +2010,7 @@ proxy-groups:
   - 🇫🇷 法国1 - 大师国际机场
   - 🇫🇷 法国2 - 大师国际机场
   - 🇰🇷 韩国-三网优化2 - 青云互联网-
+  - ℹ️ 永久官网:www.猫云.net - 猫云
   - ℹ️ 官网：https://1100.gg - Cyanmori
   - 🇮🇳 印度01 - Cyanmori
   - 🇮🇳 印度02 - Cyanmori
@@ -1655,12 +2055,32 @@ proxy-groups:
   - 🇮🇱 以色列 - V2Link VPN
   - 🇸🇪 瑞典 - V2Link VPN
   - 🇵🇱 波兰 - V2Link VPN
+  - 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇮🇩 ID.印度尼西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇷 TUR.土耳其.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇭 TH.泰国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇻🇳 VN.越南.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇦🇺 AU.澳洲.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇮🇳 IN.印度.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇫🇷 FR.法国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇬🇧 UK.英国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇩🇪 FRK.德国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇷🇺 RU.俄国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - ℹ️ 导航页：www.可乐云.net - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 凌云网络 www.ly520.me - 凌云网络
   - 🇬🇧 英国-01 | 1.8X - 凌云网络
   - 🇩🇪 德国-01 | 1.8X - 凌云网络
   - 🇹🇷 土耳其 原生｜隧道 01 - 爱猫论坛
   - 🇩🇪 德国｜隧道 01 - 爱猫论坛
   - 🇬🇧 英国｜隧道 01 - 爱猫论坛
+  - ℹ️ 最新官网：www.uuvpn.life - uu加速首页
+  - ℹ️ x 代表使用倍率 - uu加速首页
+  - ℹ️ 用不了，请更新订阅 - uu加速首页
+  - ℹ️ 永久地址请查看活动公告 - uu加速首页
+  - 🇬🇧 英国02 - uu加速首页
+  - 🇻🇳 越南01 - uu加速首页
   - 🇩🇪 JCBB_德国01【vip1】 - JCBB
   - 🇩🇪 JCBB_德国02【vip1】 - JCBB
   - 🇩🇪 JCBB_德国03【vip1】 - JCBB
@@ -1761,6 +2181,24 @@ proxy-groups:
   - 🇬🇧 vip1 英国-01 - FastFly
   - 🇬🇧 vip1 英国-02 - FastFly
   - 🇬🇧 vip1 英国-01 测试 - FastFly
+  - 🇰🇷 广港•韩国263•高速 - 飞翔吧
+  - 🇰🇷 广港•韩国264•高速 - 飞翔吧
+  - 🇬🇧 中转•英国267•高速 - 飞翔吧
+  - 🇬🇧 中转•英国268•高速 - 飞翔吧
+  - 🇩🇪 中转•德国302•GPT - 飞翔吧
+  - 🇩🇪 中转•德国303•GPT - 飞翔吧
+  - 🇩🇪 中转•德国304•GPT - 飞翔吧
+  - 🇩🇪 中转•德国305•GPT - 飞翔吧
+  - 🇩🇪 中转•德国306•GPT - 飞翔吧
+  - 🇰🇷 广港•韩国263•高速 - 飞翔吧
+  - 🇰🇷 广港•韩国264•高速 - 飞翔吧
+  - 🇬🇧 中转•英国267•高速 - 飞翔吧
+  - 🇬🇧 中转•英国268•高速 - 飞翔吧
+  - 🇩🇪 中转•德国302•GPT - 飞翔吧
+  - 🇩🇪 中转•德国303•GPT - 飞翔吧
+  - 🇩🇪 中转•德国304•GPT - 飞翔吧
+  - 🇩🇪 中转•德国305•GPT - 飞翔吧
+  - 🇩🇪 中转•德国306•GPT - 飞翔吧
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -1936,6 +2374,14 @@ proxies:
 - {name: 🇸🇬 新加坡NO.1 - 大师国际机场, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 3125565b-cd9c-465f-8d61-fc1945a26b8e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡NO.2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 3125565b-cd9c-465f-8d61-fc1945a26b8e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 10f0fdf4-29be-4166-a9a5-551089d8eff0, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 永久官网:www.猫云.net - 猫云, server: 8.8.8.8, port: 10086, type: ss, cipher: chacha20-ietf-poly1305, password: UWsk56VI7DtGLZeh, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.cn-db.top, port: 8080, type: vmess, uuid: 183e5d01-733b-36f7-bde3-2b5c9f27a8ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.67.176, headers: {Host: 100-132-109-246.s1.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s5.db-link02.top, port: 8880, type: vmess, uuid: 183e5d01-733b-36f7-bde3-2b5c9f27a8ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.131.90, headers: {Host: 100-62-232-158.s5.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s1.cn-db.top, port: 2052, type: vmess, uuid: 183e5d01-733b-36f7-bde3-2b5c9f27a8ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.107.49, headers: {Host: 100-189-72-227.s1.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s3.db-link01.top, port: 80, type: vmess, uuid: 183e5d01-733b-36f7-bde3-2b5c9f27a8ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.214.168, headers: {Host: 100-158-52-131.s3.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s1.cn-db.top, port: 2086, type: vmess, uuid: 183e5d01-733b-36f7-bde3-2b5c9f27a8ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.33.230, headers: {Host: 100-136-37-226.s1.cn-db.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s3.db-link01.top, port: 2052, type: vmess, uuid: 183e5d01-733b-36f7-bde3-2b5c9f27a8ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.163.219, headers: {Host: 100-184-161-80.s3.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s5.cn-db.top, port: 80, type: vmess, uuid: 183e5d01-733b-36f7-bde3-2b5c9f27a8ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.5.28, headers: {Host: 100-206-193-94.s5.cn-db.top}}, udp: true}
 - {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: I3ImyDdMOyIjvYSc, udp: true}
 - {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: I3ImyDdMOyIjvYSc, udp: true}
 - {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: I3ImyDdMOyIjvYSc, udp: true}
@@ -1976,6 +2422,69 @@ proxies:
 - {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: I3ImyDdMOyIjvYSc, udp: true}
 - {name: 🇸🇬 新加坡03 - Cyanmori, server: sg3.lvuy.xyz, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: I3ImyDdMOyIjvYSc, udp: true}
 - {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: I3ImyDdMOyIjvYSc, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: 573acd11abcaf25ffdd4802fd72e0718.node.tro.node-is.green, port: 45489, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 7c4f8f0dabb3cc5b1121631638c1c387.node.tro.node-is.green, port: 48084, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港宇宙量子专线 2x - 廉价机场, server: lz.lianjianode.cc, port: 25000, tfo: true, type: ss, cipher: aes-128-gcm, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, udp: true}
+- {name: 🇭🇰 香港BGP 三网直连1x - 廉价机场, server: 5b3283eeb3b268bee9ae9bab25b03248.node.tro.node-is.green, port: 41022, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: live.douyin.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 01 1.5x - 廉价机场, server: 4f829af6777c0c2712d150dc998a43cb.node.tro.node-is.green, port: 48064, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 02 1.5x - 廉价机场, server: 403b5b1158e43ed8e7941a3f1249ba95.node.tro.node-is.green, port: 48734, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 03 1.5x - 廉价机场, server: 63dc9c64501930315311e3a302ff8c7e.node.tro.node-is.green, port: 48256, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 04 1.5x - 廉价机场, server: 1a07e0d6b8607cae325cfebd0052d223.node.tro.node-is.green, port: 44497, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场, server: 1788b1ee980d56642687a0e6a0f67641.node.tro.node-is.green, port: 49901, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场, server: 30d7fee0e5c7064475223a5ee81b5ac3.node.tro.node-is.green, port: 49212, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场, server: 40ddaa365fb2ad922e48cb997831ef9a.node.tro.node-is.green, port: 40426, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场, server: cd22790fbcb5fa1eb67b7b78c851c13a.node.tro.node-is.green, port: 42825, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: 70b0174571eb5e5835a749d0fdb8855f.node.tro.node-is.green, port: 47947, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: 67fc5b6751752b9a49d10157fe3b0546.node.tro.node-is.green, port: 41381, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 7cc42afa27bb4c6f22ce931ef0bd59a8.node.tro.node-is.green, port: 41366, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: bbe8b3bc1a562da784d1c5f4d2137d8c.node.tro.node-is.green, port: 47143, tfo: true, type: trojan, password: 6726a7df-71a9-4d05-befd-2c0053d0faa4, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gy.58n.net, port: 20301, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gy.58n.net, port: 24603, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gy.58n.net, port: 22741, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gy.58n.net, port: 11215, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gy.58n.net, port: 20302, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gy.58n.net, port: 20303, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gy.58n.net, port: 20304, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gy.58n.net, port: 20305, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gy.58n.net, port: 20306, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 06bbaa99-a9e1-35b5-ad37-98e2b546e3ed, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 🇨🇳 台湾节点 速度炸裂（各种意义） - Cfcloud, server: 159.27.84.110, port: 26759, type: ss, cipher: chacha20-ietf-poly1305, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
 - {name: 🇹🇼 🇨🇳 台湾节点2 速度炸裂（各种意义） - Cfcloud, server: gzdx.acgyt.com, port: 18994, type: ss, cipher: chacha20-ietf-poly1305, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
 - {name: 🇹🇼 🇨🇳 台湾节点3 速度炸裂（各种意义） - Cfcloud, server: llp-shct.acgyt.com, port: 18994, type: ss, cipher: chacha20-ietf-poly1305, password: a4997171-c677-452e-bc67-165fc9c3f37d, udp: true}
@@ -2065,6 +2574,44 @@ proxies:
 - {name: 🇸🇬 新加坡 03 - V2Link VPN, server: host-033.crazyspeed.xyz, port: 10353, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇸🇬 新加坡 04 - V2Link VPN, server: host-034.crazyspeed.xyz, port: 10354, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
 - {name: 🇸🇬 新加坡 05 - V2Link VPN, server: host-035.crazyspeed.xyz, port: 10355, type: ss, cipher: chacha20-ietf-poly1305, password: e32da9eb-7c2e-4937-92c1-03c466c6fca6, udp: true}
+- {name: 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 13255, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 29299, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 53497, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 21552, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 45449, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 38630, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 33575, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 12672, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.F - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 45861, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.G | 多入口 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 44489, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 47393, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 25619, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 17318, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 40792, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 20067, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 33167, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 28595, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: mltf.cokecloud.top, port: 13128, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇮🇩 ID.印度尼西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 15447, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇹🇷 TUR.土耳其.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: turtf.cokecloud.top, port: 53355, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇹🇭 TH.泰国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: thtf.cokecloud.top, port: 34523, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇻🇳 VN.越南.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 17463, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇦🇺 AU.澳洲.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: autf.cokecloud.top, port: 18071, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇮🇳 IN.印度.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: idtf.cokecloud.top, port: 32725, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇫🇷 FR.法国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frtf.cokecloud.top, port: 15468, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 UK.英国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcuk.cokecloud.top, port: 18227, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 FRK.德国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 RU.俄国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: rutf.cokecloud.top, port: 44753, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: ℹ️ 导航页：www.可乐云.net - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-新疆直连 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xj.cokecloud.top, port: 12187, type: trojan, password: 6ac6c8d0-889a-4d91-8add-824948255d08, sni: xj.cokecloud.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP.日本.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 20437, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 43289, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇯🇵 JP.日本.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 19439, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇯🇵 JP.日本.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 13215, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 43461, type: ss, cipher: aes-128-gcm, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 10420, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 29611, type: ss, cipher: chacha20-ietf-poly1305, password: 6ac6c8d0-889a-4d91-8add-824948255d08, udp: true}
+- {name: 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 25878, type: vmess, uuid: 6ac6c8d0-889a-4d91-8add-824948255d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-01 | 2X - 凌云网络, server: 1.76po.com, port: 16325, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-02 | 2X - 凌云网络, server: 1.76po.com, port: 23390, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-03 | 2X - 凌云网络, server: 1.76po.com, port: 15014, type: vmess, uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -2105,6 +2652,24 @@ proxies:
 - {name: 🇸🇬 新加坡｜隧道 01 - 爱猫论坛, server: api1.594888.xyz, port: 36007, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡｜隧道 02 - 爱猫论坛, server: api2.594888.xyz, port: 36008, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡｜隧道 03 - 爱猫论坛, server: api3.594888.xyz, port: 36022, type: vmess, uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾01 - uu加速首页, server: jsyd.yeahfast.com, port: 31632, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: 🇭🇰 香港01 - uu加速首页, server: jsyd.yeahfast.com, port: 31672, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: 🇭🇰 香港02 - uu加速首页, server: jsyd.yeahfast.com, port: 31675, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: 🇭🇰 香港03 - uu加速首页, server: jsyd.yeahfast.com, port: 31679, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: 🇭🇰 香港04-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31681, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: 🇺🇸 美国02 - uu加速首页, server: jsyd.yeahfast.com, port: 31644, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: 🇺🇸 美国01 - uu加速首页, server: jsyd.yeahfast.com, port: 31642, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: 🇺🇸 美国04 - uu加速首页, server: jsyd.yeahfast.com, port: 31650, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: ℹ️ 最新官网：www.uuvpn.life - uu加速首页, server: 最新官网：uuvpn.cloud, port: 1080, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: ℹ️ x 代表使用倍率 - uu加速首页, server: x 代表使用倍率, port: 1080, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: ℹ️ 用不了，请更新订阅 - uu加速首页, server: 用不了，请更新订阅, port: 1080, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: ℹ️ 永久地址请查看活动公告 - uu加速首页, server: https://sulinkcloud.github.io/, port: 55626, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: 🇬🇧 英国02 - uu加速首页, server: jsyd.yeahfast.com, port: 31648, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: 🇻🇳 越南01 - uu加速首页, server: jsyd.yeahfast.com, port: 31660, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: 🇸🇬 新加坡03 - uu加速首页, server: jsyd.yeahfast.com, port: 31640, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: 🇸🇬 新加坡01 - uu加速首页, server: jsyd.yeahfast.com, port: 31636, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
+- {name: 🇸🇬 新加坡02 - uu加速首页, server: jsyd.yeahfast.com, port: 31738, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 98aa81ff-8642-4b2a-98b7-649ae18fd99e, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 01_1【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 64850, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 64850, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: gdct003.theyydsnode.top, port: 64850, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -2159,6 +2724,11 @@ proxies:
 - {name: 🇸🇬 JCBB_ 新加坡 04【vip1 】 - JCBB, server: gdct003.theyydsnode.top, port: 58464, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 05【vip1】 - JCBB, server: shcm002.theyydsnode.top, port: 58464, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 06【vip1】 - JCBB, server: gdct001.theyydsnode.top, port: 58464, type: trojan, password: 59e5183a-5432-4567-9258-b58e83bb77ef, sni: sg03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 52.34.94.52, port: 443, type: trojan, password: 8b2a50c0-0f50-3954-9b43-af6c29486235, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 8b2a50c0-0f50-3954-9b43-af6c29486235, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 8b2a50c0-0f50-3954-9b43-af6c29486235, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.78.173.41, port: 443, type: trojan, password: 8b2a50c0-0f50-3954-9b43-af6c29486235, sni: origin-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.140.0, port: 443, type: trojan, password: 8b2a50c0-0f50-3954-9b43-af6c29486235, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 您还未购买服务 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: adfd1985-a15f-4a05-915d-09fa4cc662ef, udp: true}
 - {name: 🇱🇦 请登录laomao.biz 购买 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: adfd1985-a15f-4a05-915d-09fa4cc662ef, udp: true}
 - {name: ℹ️ 购买后请更新订阅 - 老猫, server: www.google.com, port: 443, type: ss, cipher: aes-128-gcm, password: adfd1985-a15f-4a05-915d-09fa4cc662ef, udp: true}
@@ -2246,16 +2816,16 @@ proxies:
 - {name: 🇯🇵 Vip2-4.扬州-日本D | 倍率x2 - 糖果, server: cnyzm01.tangguo.pro, port: 21052, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133139:s2nCks, obfs-param: 'fa894133139.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇯🇵 Vip2-4.江苏-日本A | 倍率x2 - 糖果, server: cnczu01.tangguo.pro, port: 21096, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133139:s2nCks, obfs-param: 'fa894133139.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
 - {name: 🇯🇵 Vip2-4.江苏-日本B | 倍率x2 - 糖果, server: cnczu01.tangguo.pro, port: 21102, type: ssr, cipher: aes-128-cfb, password: Iz46Mk, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 133139:s2nCks, obfs-param: 'fa894133139.itunes.apple.com,ajax.microsoft.com,www.bing.com', udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: f972118d-5f53-32c9-bc9b-18afa8009556, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: f972118d-5f53-32c9-bc9b-18afa8009556, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: f972118d-5f53-32c9-bc9b-18afa8009556, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: f972118d-5f53-32c9-bc9b-18afa8009556, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: f972118d-5f53-32c9-bc9b-18afa8009556, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: f972118d-5f53-32c9-bc9b-18afa8009556, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: f972118d-5f53-32c9-bc9b-18afa8009556, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: f972118d-5f53-32c9-bc9b-18afa8009556, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
-- {name: '🇸🇬 [vip①]①新加坡 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: f972118d-5f53-32c9-bc9b-18afa8009556, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: f972118d-5f53-32c9-bc9b-18afa8009556, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 1db2b838-52f1-3737-8bf2-4c065c58dbf8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 1db2b838-52f1-3737-8bf2-4c065c58dbf8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 1db2b838-52f1-3737-8bf2-4c065c58dbf8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 1db2b838-52f1-3737-8bf2-4c065c58dbf8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 1db2b838-52f1-3737-8bf2-4c065c58dbf8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 1db2b838-52f1-3737-8bf2-4c065c58dbf8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 1db2b838-52f1-3737-8bf2-4c065c58dbf8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 1db2b838-52f1-3737-8bf2-4c065c58dbf8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]①新加坡 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 1db2b838-52f1-3737-8bf2-4c065c58dbf8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 1db2b838-52f1-3737-8bf2-4c065c58dbf8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
 - {name: 🇰🇷 沪日&沪韩专线上线！付费即可使用！ - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: b1542527-1861-4250-9b14-b0737e640fc0, udp: true}
 - {name: tg频道:@kkyun_proxy - Kako Cloud, server: Dont.Connect.Me, port: 65535, type: ss, cipher: chacha20-ietf-poly1305, password: b1542527-1861-4250-9b14-b0737e640fc0, udp: true}
 - {name: 🇦🇺 悉尼01 - Kako Cloud, server: welfare.kk-proxy.pro, port: 443, type: vmess, uuid: b1542527-1861-4250-9b14-b0737e640fc0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgfree01.mikuproxy.pro, network: ws, ws-opts: {path: /ec3a017507e0/, headers: {Host: sgfree01.mikuproxy.pro}}, udp: true}
