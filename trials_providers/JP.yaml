@@ -1,21 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: e130d949-0b5b-412f-af6e-2d140d06eebd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: e130d949-0b5b-412f-af6e-2d140d06eebd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35662, type: vmess, uuid: e130d949-0b5b-412f-af6e-2d140d06eebd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本专线超快-15倍率慎用 - 叼毛机场, server: shjp1-08051751.520300.xyz, port: 42472, type: ss, cipher: chacha20-ietf-poly1305, password: 8af64807-37dd-4a11-b97e-bdbc523e9711, udp: true}
-- {name: '🇯🇵 [3x]IEPL专线 日本1 - KUGOU云', server: vip1.kugovip.xyz, port: 50112, type: vmess, uuid: fd772e5f-e4b1-4b0b-ba26-d583a9f4ecfa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [3x]IEPL专线 日本2 - KUGOU云', server: vip1.kugovip.xyz, port: 50113, type: vmess, uuid: fd772e5f-e4b1-4b0b-ba26-d583a9f4ecfa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [1x]CM 隧道 日本1 - KUGOU云', server: xd1.kugovip.xyz, port: 18601, type: vmess, uuid: fd772e5f-e4b1-4b0b-ba26-d583a9f4ecfa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [1x]CM 隧道 日本2 - KUGOU云', server: xd1.kugovip.xyz, port: 18602, type: vmess, uuid: fd772e5f-e4b1-4b0b-ba26-d583a9f4ecfa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 Japan 01 - DuckLink, server: jp.ducklink.top, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: da989348-66c3-4649-abd7-a53a347838e3, udp: true}
-- {name: 🇯🇵 Japan 02 - DuckLink, server: jp.ducklink.top, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: da989348-66c3-4649-abd7-a53a347838e3, udp: true}
-- {name: 🇯🇵 Japan 05 - DuckLink, server: jp.ducklink.top, port: 21005, type: ss, cipher: chacha20-ietf-poly1305, password: da989348-66c3-4649-abd7-a53a347838e3, udp: true}
-- {name: 🇯🇵 Japan 06 - DuckLink, server: jp.ducklink.top, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: da989348-66c3-4649-abd7-a53a347838e3, udp: true}
-- {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 01f22382-bcd6-4387-a05a-0edbad2843f3, udp: true}
-- {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 01f22382-bcd6-4387-a05a-0edbad2843f3, udp: true}
-- {name: 🇯🇵 日本三 - LIME, server: 003.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 01f22382-bcd6-4387-a05a-0edbad2843f3, udp: true}
-- {name: 🇯🇵 日本四 - LIME, server: 004.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 01f22382-bcd6-4387-a05a-0edbad2843f3, udp: true}
-- {name: 🇯🇵 日本五 - LIME, server: 005.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 01f22382-bcd6-4387-a05a-0edbad2843f3, udp: true}
-- {name: 🇯🇵 日本六 - LIME, server: 006.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 01f22382-bcd6-4387-a05a-0edbad2843f3, udp: true}
+- {name: 🇯🇵 日本NO.1 - 大师国际机场, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: ecb398a0-b8d2-4bcd-9ce1-cb42f82f4068, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本NO.2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: ecb398a0-b8d2-4bcd-9ce1-cb42f82f4068, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 948fc169-1670-4ec0-87d9-2bdc8c06a31b, udp: true}
+- {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 948fc169-1670-4ec0-87d9-2bdc8c06a31b, udp: true}
+- {name: 🇯🇵 日本三 - LIME, server: 003.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 948fc169-1670-4ec0-87d9-2bdc8c06a31b, udp: true}
+- {name: 🇯🇵 日本四 - LIME, server: 004.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 948fc169-1670-4ec0-87d9-2bdc8c06a31b, udp: true}
+- {name: 🇯🇵 日本五 - LIME, server: 005.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 948fc169-1670-4ec0-87d9-2bdc8c06a31b, udp: true}
+- {name: 🇯🇵 日本六 - LIME, server: 006.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 948fc169-1670-4ec0-87d9-2bdc8c06a31b, udp: true}

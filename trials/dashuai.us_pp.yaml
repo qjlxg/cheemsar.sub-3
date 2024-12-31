@@ -11,32 +11,32 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰 江苏-香港隧道专线-1 - 叼毛机场
-  - 🇭🇰 广东-香港隧道专线-1 - 叼毛机场
-  - 🇭🇰 香港-1 - 叼毛机场
-  - 🇭🇰 香港-2 - 叼毛机场
-  - 🇸🇬 新加坡-2 - 叼毛机场
-  - 🇯🇵 日本专线超快-15倍率慎用 - 叼毛机场
-  - ℹ️ 新地址www.xiangminghao.top - 叼毛机场
-  - 缅北 - 叼毛机场
-  - 🇬🇧 英国-1 - 叼毛机场
-  - 🇬🇧 英国-2 - 叼毛机场
-  - ℹ️ 官网地址www.kkjichang.top - 叼毛机场
+  use: &id001
+  - HK
+  - TW
+  - SG
+  - JP
+  - US
+  - Other
+  - p_All_CN
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -54,16 +54,24 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
@@ -77,66 +85,129 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇭🇰 江苏-香港隧道专线-1 - 叼毛机场
-  - 🇭🇰 广东-香港隧道专线-1 - 叼毛机场
-  - 🇭🇰 香港-1 - 叼毛机场
-  - 🇭🇰 香港-2 - 叼毛机场
+  use: &id002
+  - HK
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  tolerance: 100
+  use: &id003
+  - TW
+- name: 🇨🇳 ‍中国
+  type: url-test
+  tolerance: 100
+  use: &id004
+  - HK
+  - TW
+  - p_All_CN
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id003
-  - 🇸🇬 新加坡-2 - 叼毛机场
+  use: &id005
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id004
-  - 🇯🇵 日本专线超快-15倍率慎用 - 叼毛机场
+  use: &id006
+  - JP
+- name: 🇺🇸 ‍美国
+  type: url-test
+  tolerance: 300
+  use: &id007
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id005
-  - ℹ️ 新地址www.xiangminghao.top - 叼毛机场
-  - 缅北 - 叼毛机场
-  - 🇬🇧 英国-1 - 叼毛机场
-  - 🇬🇧 英国-2 - 叼毛机场
-  - ℹ️ 官网地址www.kkjichang.top - 叼毛机场
+  use: &id008
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
+  use: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  use: *id003
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  use: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id003
+  use: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id004
+  use: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  use: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id005
-proxies:
-- {name: 🇭🇰 江苏-香港隧道专线-1 - 叼毛机场, server: tunnel-08301515.520300.xyz, port: 10608, type: ss, cipher: chacha20-ietf-poly1305, password: 8af64807-37dd-4a11-b97e-bdbc523e9711, udp: true}
-- {name: 🇭🇰 广东-香港隧道专线-1 - 叼毛机场, server: tunnel-07312159.520300.xyz, port: 12588, type: ss, cipher: chacha20-ietf-poly1305, password: 8af64807-37dd-4a11-b97e-bdbc523e9711, udp: true}
-- {name: 🇯🇵 日本专线超快-15倍率慎用 - 叼毛机场, server: shjp1-08051751.520300.xyz, port: 42472, type: ss, cipher: chacha20-ietf-poly1305, password: 8af64807-37dd-4a11-b97e-bdbc523e9711, udp: true}
-- {name: ℹ️ 新地址www.xiangminghao.top - 叼毛机场, server: tunnel-08301515.520300.xyz, port: 11410, type: ss, cipher: chacha20-ietf-poly1305, password: 8af64807-37dd-4a11-b97e-bdbc523e9711, udp: true}
-- {name: 缅北 - 叼毛机场, server: 156.244.36.109, port: 59830, type: vmess, uuid: 8af64807-37dd-4a11-b97e-bdbc523e9711, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇸🇬 新加坡-2 - 叼毛机场, server: 103.23.148.195, port: 59920, type: vmess, uuid: 8af64807-37dd-4a11-b97e-bdbc523e9711, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇭🇰 香港-1 - 叼毛机场, server: 103.23.148.195, port: 54680, type: vmess, uuid: 8af64807-37dd-4a11-b97e-bdbc523e9711, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇭🇰 香港-2 - 叼毛机场, server: 103.23.148.195, port: 52288, type: vmess, uuid: 8af64807-37dd-4a11-b97e-bdbc523e9711, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇬🇧 英国-1 - 叼毛机场, server: 194.147.16.95, port: 57781, type: vmess, uuid: 8af64807-37dd-4a11-b97e-bdbc523e9711, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇬🇧 英国-2 - 叼毛机场, server: 194.147.16.95, port: 57782, type: vmess, uuid: 8af64807-37dd-4a11-b97e-bdbc523e9711, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: ℹ️ 官网地址www.kkjichang.top - 叼毛机场, server: 103.23.148.195, port: 59932, type: vmess, uuid: 8af64807-37dd-4a11-b97e-bdbc523e9711, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+  use: *id008
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/x.sub/main/trials_providers/dashuai.us/HK.yaml
+    interval: 180
+    path: trials_providers/dashuai.us/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  TW:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/x.sub/main/trials_providers/dashuai.us/TW.yaml
+    interval: 180
+    path: trials_providers/dashuai.us/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/x.sub/main/trials_providers/dashuai.us/SG.yaml
+    interval: 180
+    path: trials_providers/dashuai.us/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/x.sub/main/trials_providers/dashuai.us/JP.yaml
+    interval: 180
+    path: trials_providers/dashuai.us/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/x.sub/main/trials_providers/dashuai.us/US.yaml
+    interval: 180
+    path: trials_providers/dashuai.us/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/x.sub/main/trials_providers/dashuai.us/Other.yaml
+    interval: 180
+    path: trials_providers/dashuai.us/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  p_All_CN:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/x.sub/main/trials_providers/dashuai.us/p_All_CN.yaml
+    interval: 180
+    path: trials_providers/dashuai.us/p_All_CN.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
