@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 Japan 01 - DuckLink, server: jp.ducklink.top, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 73eee9cc-47c3-41fd-8cb4-551327588bd9, udp: true}
-- {name: 🇯🇵 Japan 02 - DuckLink, server: jp.ducklink.top, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 73eee9cc-47c3-41fd-8cb4-551327588bd9, udp: true}
-- {name: 🇯🇵 Japan 05 - DuckLink, server: jp.ducklink.top, port: 21005, type: ss, cipher: chacha20-ietf-poly1305, password: 73eee9cc-47c3-41fd-8cb4-551327588bd9, udp: true}
-- {name: 🇯🇵 Japan 06 - DuckLink, server: jp.ducklink.top, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 73eee9cc-47c3-41fd-8cb4-551327588bd9, udp: true}
+- {name: 🇯🇵 Japan 01 - DuckLink, server: jp.ducklink.top, port: 21001, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 73eee9cc-47c3-41fd-8cb4-551327588bd9, udp: true}
+- {name: 🇯🇵 Japan 02 - DuckLink, server: jp.ducklink.top, port: 21002, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 73eee9cc-47c3-41fd-8cb4-551327588bd9, udp: true}
+- {name: 🇯🇵 Japan 05 - DuckLink, server: jp.ducklink.top, port: 21005, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 73eee9cc-47c3-41fd-8cb4-551327588bd9, udp: true}
+- {name: 🇯🇵 Japan 06 - DuckLink, server: jp.ducklink.top, port: 21006, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 73eee9cc-47c3-41fd-8cb4-551327588bd9, udp: true}

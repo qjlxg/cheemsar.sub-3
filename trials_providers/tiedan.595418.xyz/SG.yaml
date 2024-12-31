@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡落地 - 铁蛋加速, server: 45.32.102.248, port: 12330, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c7a0826d-cb4a-4fa0-b05c-94f7a0ea9855, udp: true}
+- {name: 🇸🇬 SG新加坡-狮城① - 铁蛋加速, server: dddd2024.zj-zz-cm1.tiedandddd.shop, port: 32111, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c7a0826d-cb4a-4fa0-b05c-94f7a0ea9855, udp: true}
+- {name: 🇸🇬 SG新加坡-狮城② - 铁蛋加速, server: dddd2024.zj-zz-cm2.tiedandddd.shop, port: 32112, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c7a0826d-cb4a-4fa0-b05c-94f7a0ea9855, udp: true}
