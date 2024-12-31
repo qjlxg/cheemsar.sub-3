@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇸🇬 [vmess]新加坡02-V4-流媒体 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: 6f74dc16-2c5d-4343-932f-bea4b713c0ec, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /0, headers: {Host: sg0002.hy-2.top}}, udp: true}
+- {name: '🇸🇬 [vmess]新加坡02-V4-流媒体 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: eea4e890-df2b-43a4-9c1c-7012afd301ac, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /0, headers: {Host: sg0002.hy-2.top}}, udp: true}
