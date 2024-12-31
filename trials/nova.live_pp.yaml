@@ -78,7 +78,7 @@ proxy-groups:
 proxy-providers:
   JP:
     type: http
-    url: https://raw.kgithub.com/qjlxg/x.sub/main/trials_providers/nova.live/JP.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/nova.live/JP.yaml
     interval: 180
     path: trials_providers/nova.live/JP.yaml
     health-check:
@@ -87,7 +87,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/x.sub/main/trials_providers/nova.live/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/nova.live/US.yaml
     interval: 180
     path: trials_providers/nova.live/US.yaml
     health-check:

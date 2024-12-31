@@ -17,38 +17,34 @@ proxies:
 - &id018 {name: 🇹🇼 Video 台湾D-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 926, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
 - &id019 {name: 🇹🇼 Video 台湾E-解锁 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 39004, type: ss, cipher: aes-128-gcm, password: ayds23sd1, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
 - &id020 {name: 🇹🇼 Web 台湾I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 9047, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: dc2adf7c77231a9539a7a00af9d3767e.node.tro.node-is.green, port: 44623, type: trojan, password: 7325488b-7618-4e3c-8cfb-d4e73bc7893e, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 48178bd19240c94c3b329e3b220e0a33.node.tro.node-is.green, port: 48343, type: trojan, password: 7325488b-7618-4e3c-8cfb-d4e73bc7893e, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- &id001 {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: a57e43bb-4b9f-3558-b658-abbefb9d3849, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- &id002 {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: a57e43bb-4b9f-3558-b658-abbefb9d3849, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- &id003 {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: a57e43bb-4b9f-3558-b658-abbefb9d3849, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- &id004 {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: a57e43bb-4b9f-3558-b658-abbefb9d3849, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: 774421049512f1b67b4abf519af50c36.node.tro.node-is.green, port: 41937, type: trojan, password: 7325488b-7618-4e3c-8cfb-d4e73bc7893e, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 94b87566d6370dff6756cb3dd640cf31.node.tro.node-is.green, port: 44323, type: trojan, password: 7325488b-7618-4e3c-8cfb-d4e73bc7893e, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- &id001 {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: ec36f290-c4ef-395b-90a1-5a6b48d15d83, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- &id002 {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: ec36f290-c4ef-395b-90a1-5a6b48d15d83, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- &id003 {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: ec36f290-c4ef-395b-90a1-5a6b48d15d83, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id004 {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: ec36f290-c4ef-395b-90a1-5a6b48d15d83, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
 - &id005 {name: 🇹🇼 台湾 1 - 血液加速器, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: 5a548266-7008-4bf5-a0b8-785b948b105d, udp: true}
 - &id006 {name: 🇹🇼 台湾01 - 血液加速器, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: 5a548266-7008-4bf5-a0b8-785b948b105d, udp: true}
 - {name: '🇹🇼 [3x]IEPL专线 台湾1 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, type: vmess, uuid: 267af397-c406-4e16-aa61-276fe6045324, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇹🇼 [3x]IEPL专线 台湾2 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, type: vmess, uuid: 267af397-c406-4e16-aa61-276fe6045324, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 13255, tfo: true, type: vmess, uuid: 589007a3-6eed-4eab-99fc-adda859d540f, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 29299, tfo: true, type: vmess, uuid: 589007a3-6eed-4eab-99fc-adda859d540f, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 53497, tfo: true, type: vmess, uuid: 589007a3-6eed-4eab-99fc-adda859d540f, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 13255, type: vmess, uuid: 589007a3-6eed-4eab-99fc-adda859d540f, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 29299, type: vmess, uuid: 589007a3-6eed-4eab-99fc-adda859d540f, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 53497, type: vmess, uuid: 589007a3-6eed-4eab-99fc-adda859d540f, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾01 - uu加速首页, server: jsyd.yeahfast.com, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: 84d72add-14a2-47e7-98d7-56299ea2f82a, udp: true}
-- *id001
-- *id002
-- *id003
-- *id004
 - *id001
 - *id002
 - *id003
 - *id004
 - *id005
 - *id006
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 02a23e2a-217a-39c1-a011-e6e2033563b5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 38e23a3c-c0ea-3917-bcdf-a58665e2c34d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
 - {name: 🇹🇼 台湾01（高速） - CloudFox, server: tw01.x.woyh.xyz, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: 6082b56a-f431-4e35-ba22-78e4d254ffa0, udp: true}
 - {name: 🇹🇼 台湾02（高速） - CloudFox, server: tw02.x.woyh.xyz, port: 38611, type: ss, cipher: chacha20-ietf-poly1305, password: 6082b56a-f431-4e35-ba22-78e4d254ffa0, udp: true}
 - {name: 🇹🇼 台湾03（IPLC稳定） - CloudFox, server: tw03.x.woyh.xyz, port: 38612, type: ss, cipher: chacha20-ietf-poly1305, password: 6082b56a-f431-4e35-ba22-78e4d254ffa0, udp: true}
 - {name: 🇹🇼 台湾04（IPLC稳定） - CloudFox, server: tw04.x.woyh.xyz, port: 38613, type: ss, cipher: chacha20-ietf-poly1305, password: 6082b56a-f431-4e35-ba22-78e4d254ffa0, udp: true}
 - {name: 🇹🇼 台湾05（GPT专用） - CloudFox, server: tw05.x.woyh.xyz, port: 38615, type: ss, cipher: chacha20-ietf-poly1305, password: 6082b56a-f431-4e35-ba22-78e4d254ffa0, udp: true}
 - {name: 🇹🇼 台湾06（GPT专用） - CloudFox, server: tw06.x.woyh.xyz, port: 38616, type: ss, cipher: chacha20-ietf-poly1305, password: 6082b56a-f431-4e35-ba22-78e4d254ffa0, udp: true}
-- {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: 1121e3fd-5212-4f3a-8f6e-d9eb8b59f9c6, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
+- {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: d98c45b2-16df-4590-af3a-65f6d67a2183, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
 - *id007
 - *id008
 - *id009
@@ -63,6 +59,6 @@ proxies:
 - *id018
 - *id019
 - *id020
-- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: e1c6aa58-ee81-44dc-a268-bdbbfcf62172, udp: true}
-- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: e1c6aa58-ee81-44dc-a268-bdbbfcf62172, udp: true}
+- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, tfo: true, type: ss, cipher: aes-128-gcm, password: e1c6aa58-ee81-44dc-a268-bdbbfcf62172, udp: true}
+- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, tfo: true, type: ss, cipher: aes-128-gcm, password: e1c6aa58-ee81-44dc-a268-bdbbfcf62172, udp: true}
 - {name: '🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: efb0af56-0a9f-4c40-a628-77cfd2e89ba0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af323d, headers: {Host: tw02.hy2.one}}, udp: true}
