@@ -1,11 +1,83 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本NO.1 - 大师国际机场, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: ecb398a0-b8d2-4bcd-9ce1-cb42f82f4068, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本NO.2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: ecb398a0-b8d2-4bcd-9ce1-cb42f82f4068, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 948fc169-1670-4ec0-87d9-2bdc8c06a31b, udp: true}
-- {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 948fc169-1670-4ec0-87d9-2bdc8c06a31b, udp: true}
-- {name: 🇯🇵 日本三 - LIME, server: 003.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 948fc169-1670-4ec0-87d9-2bdc8c06a31b, udp: true}
-- {name: 🇯🇵 日本四 - LIME, server: 004.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 948fc169-1670-4ec0-87d9-2bdc8c06a31b, udp: true}
-- {name: 🇯🇵 日本五 - LIME, server: 005.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 948fc169-1670-4ec0-87d9-2bdc8c06a31b, udp: true}
-- {name: 🇯🇵 日本六 - LIME, server: 006.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 948fc169-1670-4ec0-87d9-2bdc8c06a31b, udp: true}
+- {name: 🇯🇵 日本NO.1 - 大师国际机场, server: haa.dashuai.cyou, port: 45056, tfo: true, type: vmess, uuid: 40e37bdf-c0ec-4e85-957d-f831b388fe29, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本NO.2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45057, tfo: true, type: vmess, uuid: 40e37bdf-c0ec-4e85-957d-f831b388fe29, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id012 {name: 🇯🇵 Game 日本01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9059, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
+- &id013 {name: 🇯🇵 Game 日本02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9062, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
+- &id014 {name: 🇯🇵 Game 日本03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 819, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
+- &id015 {name: 🇯🇵 Game 日本04-原生 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9021, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
+- &id016 {name: 🇯🇵 Game 日本05-原生 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 914, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
+- &id017 {name: 🇯🇵 Game 日本06-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 909, type: ss, cipher: aes-128-gcm, password: ayu1245, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
+- &id018 {name: 🇯🇵 Game 日本07-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 918, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
+- &id019 {name: 🇯🇵 Game 日本08-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 811, type: ss, cipher: aes-128-gcm, password: ay2dsd1, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
+- &id020 {name: 🇯🇵 Game 日本09-专线 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 1313, type: ss, cipher: aes-128-gcm, password: fjlfjafl231303831, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
+- &id021 {name: 🇯🇵 Game 日本10-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 901, type: ss, cipher: aes-128-gcm, password: ay21d1, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
+- &id022 {name: 🇯🇵 Video 日本A-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 818, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
+- &id023 {name: 🇯🇵 Video 日本B-解锁 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 813, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
+- &id024 {name: 🇯🇵 Video 日本C-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 4321, type: ss, cipher: aes-128-gcm, password: ay232sffssd1, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
+- &id025 {name: 🇯🇵 Web 日本I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 9051, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 5f4ad104709.download.windowsupdate.com}, udp: true}
+- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: b27ee7c4a556dad2dff0d5b7e85e8421.node.tro.node-is.green, port: 46006, type: trojan, password: 798f48e3-6d17-4296-8202-55a780fd4a35, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: fd010921f026c77f64724e50bb067c10.node.tro.node-is.green, port: 40719, type: trojan, password: 798f48e3-6d17-4296-8202-55a780fd4a35, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- &id001 {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: 3f51cc10-27a9-3f6b-861d-0b14c68b24c9, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id002 {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: 3f51cc10-27a9-3f6b-861d-0b14c68b24c9, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id003 {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: 3f51cc10-27a9-3f6b-861d-0b14c68b24c9, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
+- &id004 {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: 3f51cc10-27a9-3f6b-861d-0b14c68b24c9, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
+- &id005 {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: 3f51cc10-27a9-3f6b-861d-0b14c68b24c9, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id006 {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: 3f51cc10-27a9-3f6b-861d-0b14c68b24c9, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id007 {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: 3f51cc10-27a9-3f6b-861d-0b14c68b24c9, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id008 {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: 3f51cc10-27a9-3f6b-861d-0b14c68b24c9, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id009 {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: 3f51cc10-27a9-3f6b-861d-0b14c68b24c9, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
+- &id010 {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: 3f51cc10-27a9-3f6b-861d-0b14c68b24c9, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
+- &id011 {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: 3f51cc10-27a9-3f6b-861d-0b14c68b24c9, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: cb07291e-ce4e-44dc-8a79-1d75c3b6b58b, udp: true}
+- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: cb07291e-ce4e-44dc-8a79-1d75c3b6b58b, udp: true}
+- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: cb07291e-ce4e-44dc-8a79-1d75c3b6b58b, udp: true}
+- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: cb07291e-ce4e-44dc-8a79-1d75c3b6b58b, udp: true}
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.dugusite3.top, port: 5061, type: vmess, uuid: d1a448f2-3372-3fe3-8e48-91b1c27b2ce6, alterId: 00, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.dugusite3.top, port: 5061, type: vmess, uuid: d1a448f2-3372-3fe3-8e48-91b1c27b2ce6, alterId: 00, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.dugusite3.top, port: 5061, type: vmess, uuid: d1a448f2-3372-3fe3-8e48-91b1c27b2ce6, alterId: 00, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天, server: jp6-3.dugusite3.top, port: 5061, type: vmess, uuid: d1a448f2-3372-3fe3-8e48-91b1c27b2ce6, alterId: 00, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-新疆直连 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xj.cokecloud.top, port: 12187, type: trojan, password: bcbb332f-e002-4e43-a50a-cfe222a27b95, sni: xj.cokecloud.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP.日本.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 20437, type: ss, cipher: chacha20-ietf-poly1305, password: bcbb332f-e002-4e43-a50a-cfe222a27b95, udp: true}
+- {name: 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 43289, type: ss, cipher: chacha20-ietf-poly1305, password: bcbb332f-e002-4e43-a50a-cfe222a27b95, udp: true}
+- {name: 🇯🇵 JP.日本.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 19439, type: ss, cipher: chacha20-ietf-poly1305, password: bcbb332f-e002-4e43-a50a-cfe222a27b95, udp: true}
+- {name: 🇯🇵 JP.日本.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 13215, type: ss, cipher: chacha20-ietf-poly1305, password: bcbb332f-e002-4e43-a50a-cfe222a27b95, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.78.173.41, port: 443, type: trojan, password: 4d7cfbf0-4636-3994-8ef4-6ebd668c9c69, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 43.206.140.0, port: 443, type: trojan, password: 4d7cfbf0-4636-3994-8ef4-6ebd668c9c69, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025

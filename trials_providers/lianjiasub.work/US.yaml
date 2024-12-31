@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场, server: 10722ba3b2b4db936c49ba4b22c064b3.node.tro.node-is.green, port: 47067, type: trojan, password: 798f48e3-6d17-4296-8202-55a780fd4a35, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场, server: 58d8385b31330d579e6e5372462395b3.node.tro.node-is.green, port: 42909, type: trojan, password: 798f48e3-6d17-4296-8202-55a780fd4a35, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场, server: 05aca3d4bd6560a6ce9a2f2d272af6c9.node.tro.node-is.green, port: 49429, type: trojan, password: 798f48e3-6d17-4296-8202-55a780fd4a35, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场, server: ef4e51a6cce21ee2a6c76c532811d210.node.tro.node-is.green, port: 49262, type: trojan, password: 798f48e3-6d17-4296-8202-55a780fd4a35, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
