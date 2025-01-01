@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 TW台湾① - 铁蛋加速, server: an-cm1.tiedandddd.shop, port: 32131, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c7a0826d-cb4a-4fa0-b05c-94f7a0ea9855, udp: true}
-- {name: 🇹🇼 TW台湾② - 铁蛋加速, server: an-cm2.tiedandddd.shop, port: 32132, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c7a0826d-cb4a-4fa0-b05c-94f7a0ea9855, udp: true}
+- {name: 🇹🇼 TW台湾① - 铁蛋加速, server: an-cm1.tiedandddd.shop, port: 32131, type: ss, cipher: chacha20-ietf-poly1305, password: d23d8e3b-b6db-4d1a-96e2-984b1ac23119, udp: true}
+- {name: 🇹🇼 TW台湾② - 铁蛋加速, server: an-cm2.tiedandddd.shop, port: 32132, type: ss, cipher: chacha20-ietf-poly1305, password: d23d8e3b-b6db-4d1a-96e2-984b1ac23119, udp: true}
