@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+proxies:
+- &id001 {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 40552, type: vmess, uuid: e63a3443-5053-4419-8fa4-12ebf6e61fd1, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 香港节点1 - 老牛云, server: 183.232.159.51, port: 45107, type: ss, cipher: chacha20-ietf-poly1305, password: 3419de20-6af6-4d5d-a940-3f4c120d1b61, udp: true}
+- {name: 🇭🇰 香港节点2 - 老牛云, server: 183.232.159.51, port: 39551, type: ss, cipher: chacha20-ietf-poly1305, password: 3419de20-6af6-4d5d-a940-3f4c120d1b61, udp: true}
+- {name: 🇭🇰 香港节点3 - 老牛云, server: 183.232.159.51, port: 11308, type: ss, cipher: chacha20-ietf-poly1305, password: 3419de20-6af6-4d5d-a940-3f4c120d1b61, udp: true}
+- {name: 🇭🇰 香港节点4 - 老牛云, server: 183.232.159.51, port: 47621, type: ss, cipher: chacha20-ietf-poly1305, password: 3419de20-6af6-4d5d-a940-3f4c120d1b61, udp: true}
+- *id001
+- *id001
+- *id001
