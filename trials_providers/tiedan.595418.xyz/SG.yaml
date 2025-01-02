@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 SG新加坡-狮城① - 铁蛋加速, server: dddd2024.zj-zz-cm1.tiedandddd.shop, port: 32111, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f43131a9-0c63-412a-8188-d4bfb057a0ad, udp: true}
-- {name: 🇸🇬 SG新加坡-狮城② - 铁蛋加速, server: dddd2024.zj-zz-cm2.tiedandddd.shop, port: 32112, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: f43131a9-0c63-412a-8188-d4bfb057a0ad, udp: true}

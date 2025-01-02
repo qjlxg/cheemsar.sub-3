@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 台湾01 - uu加速首页, server: jscm1.yunnode.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: f770c85a-5057-404b-ad66-ee679035340a, udp: true}
