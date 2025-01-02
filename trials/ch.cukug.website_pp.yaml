@@ -91,27 +91,27 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/vt.louwangzhiyu.xyz/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/ch.cukug.website/HK.yaml
     interval: 180
-    path: trials_providers/vt.louwangzhiyu.xyz/HK.yaml
+    path: trials_providers/ch.cukug.website/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/vt.louwangzhiyu.xyz/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/ch.cukug.website/US.yaml
     interval: 180
-    path: trials_providers/vt.louwangzhiyu.xyz/US.yaml
+    path: trials_providers/ch.cukug.website/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/vt.louwangzhiyu.xyz/Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/ch.cukug.website/Other.yaml
     interval: 180
-    path: trials_providers/vt.louwangzhiyu.xyz/Other.yaml
+    path: trials_providers/ch.cukug.website/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
