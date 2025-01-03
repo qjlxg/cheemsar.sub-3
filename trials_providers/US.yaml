@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国-芝加哥-001 - 漏网之鱼, server: 166.88.182.81, port: 40552, type: vmess, uuid: 545378d0-eea7-44ee-ae4d-6a1c6596a4b3, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 47393, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 58cb6eb1-74c5-4957-bf14-7c8a88852bfc, udp: true}
+- {name: 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 25619, tfo: true, type: vmess, uuid: 58cb6eb1-74c5-4957-bf14-7c8a88852bfc, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 17318, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 58cb6eb1-74c5-4957-bf14-7c8a88852bfc, udp: true}
+- {name: 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 40792, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 58cb6eb1-74c5-4957-bf14-7c8a88852bfc, udp: true}
+- {name: 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 20067, tfo: true, type: vmess, uuid: 58cb6eb1-74c5-4957-bf14-7c8a88852bfc, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
