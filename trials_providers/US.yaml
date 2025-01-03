@@ -1,17 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: f806bde8-cf9f-38f8-8417-55704794f8be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: f806bde8-cf9f-38f8-8417-55704794f8be, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
-- {name: 🇺🇸 Game 美国01-原生 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9873, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: f30c6104870.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 Game 美国02-原生 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 821, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: f30c6104870.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 Game 美国03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 903, type: ss, cipher: aes-128-gcm, password: ay2l23ud1, plugin: obfs, plugin-opts: {mode: http, host: f30c6104870.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 Game 美国04-通用 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 910, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: f30c6104870.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 Game 美国05-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 906, type: ss, cipher: aes-128-gcm, password: ay2loud1, plugin: obfs, plugin-opts: {mode: http, host: f30c6104870.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 Video 美国A-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 820, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: f30c6104870.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 Video 美国B-解锁 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 809, type: ss, cipher: aes-128-gcm, password: ayucjrsll, plugin: obfs, plugin-opts: {mode: http, host: f30c6104870.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 Video 美国C-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 911, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: f30c6104870.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 Video 美国D-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 857, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: f30c6104870.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 Web 美国I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 925, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: f30c6104870.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 Web 美国II-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 812, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: f30c6104870.download.windowsupdate.com}, udp: true}
-- {name: 🇺🇸 Web 美国III-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 837, type: ss, cipher: aes-128-gcm, password: ayucl12s1, plugin: obfs, plugin-opts: {mode: http, host: f30c6104870.download.windowsupdate.com}, udp: true}
+- &id001 {name: 🇺🇸 美国-芝加哥-001 - 漏网之鱼, server: 166.88.182.81, port: 40552, type: vmess, uuid: f4da9fb5-371c-44cb-af14-6e7b3d32f3b0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- *id001
