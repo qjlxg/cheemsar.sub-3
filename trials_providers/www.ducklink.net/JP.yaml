@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 Japan 01 - DuckLink, server: jp.ducklink.top, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 6fb0b9b4-1546-4654-ad55-2bf339762a45, udp: true}
+- {name: 🇯🇵 Japan 02 - DuckLink, server: jp.ducklink.top, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 6fb0b9b4-1546-4654-ad55-2bf339762a45, udp: true}
+- {name: 🇯🇵 Japan 05 - DuckLink, server: jp.ducklink.top, port: 21005, type: ss, cipher: chacha20-ietf-poly1305, password: 6fb0b9b4-1546-4654-ad55-2bf339762a45, udp: true}
+- {name: 🇯🇵 Japan 06 - DuckLink, server: jp.ducklink.top, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 6fb0b9b4-1546-4654-ad55-2bf339762a45, udp: true}
