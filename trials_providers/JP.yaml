@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 日本NO.1 - 大师国际机场, server: haa.dashuai.cyou, port: 45056, tfo: true, type: vmess, uuid: 0895e250-fb86-4001-9b16-2451a6614a57, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本NO.2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45057, tfo: true, type: vmess, uuid: 0895e250-fb86-4001-9b16-2451a6614a57, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: fd7eb519-df4e-44bf-b485-e313e1e9a4d1, udp: true}
-- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: fd7eb519-df4e-44bf-b485-e313e1e9a4d1, udp: true}
-- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: fd7eb519-df4e-44bf-b485-e313e1e9a4d1, udp: true}
-- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: fd7eb519-df4e-44bf-b485-e313e1e9a4d1, udp: true}

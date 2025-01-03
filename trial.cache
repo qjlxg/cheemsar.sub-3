@@ -1,0 +1,9 @@
+[dd.moonriver.cfd]
+buy  period=month_price&plan_id=6
+email  nlybirqia106@gmail.com
+name  MoonRiver月河村
+sub_info  0B  1G  2025-02-03 13:32:08+08:00  (剩余 1G 30 days, 23:55:09.594155)
+sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=862e2cae01418bdfc73817ffaffc580a
+time  2025-01-03 13:32:09.771900+08:00
+type  v2board
+保存base64/clash订阅失败  'proxies'
