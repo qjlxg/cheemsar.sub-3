@@ -1,7 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 85412699-72b2-4ee0-a61a-a4dbf012c5a5, udp: true}
-- {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 85412699-72b2-4ee0-a61a-a4dbf012c5a5, udp: true}
-- {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 85412699-72b2-4ee0-a61a-a4dbf012c5a5, udp: true}
-- {name: '🇭🇰 [vmess]香港06-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: c56f614b-14c1-4d4e-9a82-4329a8e8bc0c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk06.hy-2.top}}, udp: true}
+- {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 40552, type: vmess, uuid: a0b7fbdd-3647-4324-a25e-cac8325e4641, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
