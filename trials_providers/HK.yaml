@@ -1,5 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 40552, type: vmess, uuid: f4da9fb5-371c-44cb-af14-6e7b3d32f3b0, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- *id001
+- {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 21264, type: vmess, uuid: a97c92f1-b09d-4e19-be34-d7fefaad63a1, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
