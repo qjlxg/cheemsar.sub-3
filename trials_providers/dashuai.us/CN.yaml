@@ -7,8 +7,3 @@ proxies:
 - {name: 🇭🇰 香港NO.2（GPT奈飞等） - 大师国际机场, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 99811f94-401e-4053-9893-e053c07e1d45, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇲🇴 澳门NO.2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 99811f94-401e-4053-9893-e053c07e1d45, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港（直连） - 大师国际机场, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: 99811f94-401e-4053-9893-e053c07e1d45, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 - 血液加速器, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: 21eacba0-4953-4135-a4c5-4aedb17ff3da, udp: true}
-- {name: 🇹🇼 台湾01 - 血液加速器, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: 21eacba0-4953-4135-a4c5-4aedb17ff3da, udp: true}
-- {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 21eacba0-4953-4135-a4c5-4aedb17ff3da, udp: true}
-- {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 21eacba0-4953-4135-a4c5-4aedb17ff3da, udp: true}
-- {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 21eacba0-4953-4135-a4c5-4aedb17ff3da, udp: true}
