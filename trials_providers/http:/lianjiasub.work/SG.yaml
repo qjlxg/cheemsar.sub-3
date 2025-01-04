@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: d6a972a09b9684d1a31d27ab75aa31bd.node.tro.node-is.green, port: 41019, type: trojan, password: bbcf2b93-3c20-4f79-bb93-87b12b24eb28, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: 884a3ff4e49fc25e8b01b6cff5945543.node.tro.node-is.green, port: 45575, type: trojan, password: bbcf2b93-3c20-4f79-bb93-87b12b24eb28, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
