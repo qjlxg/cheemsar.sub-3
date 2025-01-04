@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 28320, type: vmess, uuid: e82c3986-3f20-4209-a4c5-bb6fd872dfe4, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 28320, tfo: true, type: vmess, uuid: e82c3986-3f20-4209-a4c5-bb6fd872dfe4, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
