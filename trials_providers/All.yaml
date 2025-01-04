@@ -1,25 +1,27 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 OBS宁波-香港-hy - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 58629, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇭🇰 OBS宁波-香港 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 48435, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇭🇰 OBS宁波-香港1 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 21253, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇭🇰 OBS宁波-香港2 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 48435, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇭🇰 OBS江苏-香港aws - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 32181, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇭🇰 OBS江苏-香港gcp - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 14709, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇸🇬 新加坡已做禁ping处理 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 40185, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇸🇬 新加坡显示timeout也正常使用 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 10716, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇸🇬 新加坡01 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 14098, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇸🇬 新加坡B|宁波中转01 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 30494, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇸🇬 新加坡B|湖南中转02 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 36485, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇸🇬 新加坡B|湖南中转03 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 11493, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇸🇬 新加坡B|湖南中转04 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 40185, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇯🇵 日本A区|宁波中转01 - 草榴加速器, server: bbs.sadomasochismclub.site, port: 33917, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇯🇵 日本A区|宁波中转02 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 28471, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇯🇵 日本A区|宁波中转03 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 34804, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇯🇵 日本B区|宁波中转02 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 44591, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇯🇵 日本B区|宁波中转03 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 25939, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇯🇵 日本VIP区|宁波中转01 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 37612, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇯🇵 日本VIP区|宁波中转02 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 28365, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇯🇵 日本VIP区|宁波中转03 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 39098, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
-- {name: 🇸🇬 新加坡高速|青岛中转01 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 42345, type: ss, cipher: chacha20-ietf-poly1305, password: ae9189f2-ae9d-4cd8-8c4b-6cf62b971f0d, udp: true}
+- &id001 {name: 🇸🇬 新加坡-01 - 畅游无限, server: 3.1.222.55, port: 8443, type: vmess, uuid: 711c41d8-90e5-497e-8559-4a9ebfa962b4, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id002 {name: 🇸🇬 新加坡-02 - 畅游无限, server: 3.0.50.76, port: 8443, type: vmess, uuid: 711c41d8-90e5-497e-8559-4a9ebfa962b4, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id003 {name: 🇸🇬 新加坡-03 - 畅游无限, server: 54.251.155.85, port: 8443, type: vmess, uuid: 711c41d8-90e5-497e-8559-4a9ebfa962b4, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id004 {name: 🇸🇬 新加坡-04 - 畅游无限, server: 13.229.121.26, port: 8443, type: vmess, uuid: 711c41d8-90e5-497e-8559-4a9ebfa962b4, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id005 {name: 🇸🇬 新加坡-05 - 畅游无限, server: 18.138.81.92, port: 8443, type: vmess, uuid: 711c41d8-90e5-497e-8559-4a9ebfa962b4, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id006 {name: 🇸🇬 新加坡-06 - 畅游无限, server: 18.142.96.208, port: 8443, type: vmess, uuid: 711c41d8-90e5-497e-8559-4a9ebfa962b4, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id007 {name: 🇰🇷 韩国-01 - 畅游无限, server: 43.203.121.134, port: 8443, type: vmess, uuid: 711c41d8-90e5-497e-8559-4a9ebfa962b4, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id008 {name: 🇰🇷 韩国-02 - 畅游无限, server: 43.203.118.82, port: 8443, type: vmess, uuid: 711c41d8-90e5-497e-8559-4a9ebfa962b4, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id009 {name: 🇯🇵 日本-01 - 畅游无限, server: 43.207.164.167, port: 8443, type: vmess, uuid: 711c41d8-90e5-497e-8559-4a9ebfa962b4, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id010 {name: 🇯🇵 日本-02 - 畅游无限, server: 52.194.185.148, port: 8443, type: vmess, uuid: 711c41d8-90e5-497e-8559-4a9ebfa962b4, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id011 {name: 🇺🇸 美国-01 - 畅游无限, server: 54.210.30.219, port: 8443, type: vmess, uuid: 711c41d8-90e5-497e-8559-4a9ebfa962b4, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id012 {name: 🇺🇸 美国-02 - 畅游无限, server: 52.207.226.181, port: 8443, type: vmess, uuid: 711c41d8-90e5-497e-8559-4a9ebfa962b4, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
