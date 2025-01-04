@@ -1,0 +1,21 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇺🇸 [3x]IEPL专线 美国1 - KUGOU云', server: vip1.kugovip.xyz, port: 50107, type: vmess, uuid: c9a8e7d0-396a-45da-8a88-71cdb476e145, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x]IEPL专线 美国2 - KUGOU云', server: vip1.kugovip.xyz, port: 50129, type: vmess, uuid: c9a8e7d0-396a-45da-8a88-71cdb476e145, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [1x]CM 隧道 美国1 - KUGOU云', server: xd1.kugovip.xyz, port: 18606, type: vmess, uuid: c9a8e7d0-396a-45da-8a88-71cdb476e145, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [1倍率]临时直连 美国 - KUGOU云', server: us2.kugovip.xyz, port: 10113, type: vmess, uuid: c9a8e7d0-396a-45da-8a88-71cdb476e145, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us2.kugovip.xyz}}, udp: true}
+- {name: '🇺🇸 [3x] 美国 IEPL专线NO1 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: fad26a45-cd07-438e-b4a4-a634a07a9a47, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x] 美国 IEPL专线NO2 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: fad26a45-cd07-438e-b4a4-a634a07a9a47, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US美国-圣何塞① - 铁蛋加速, server: an-cm1.tiedandddd.shop, port: 32161, type: ss, cipher: chacha20-ietf-poly1305, password: c2f7acbb-9168-4ab8-836f-87587a6f2c14, udp: true}
+- {name: 🇺🇸 US美国-凤凰城② - 铁蛋加速, server: dddd2024.zj-zz-cm2.tiedandddd.shop, port: 32162, type: ss, cipher: chacha20-ietf-poly1305, password: c2f7acbb-9168-4ab8-836f-87587a6f2c14, udp: true}
+- {name: 🇺🇸 US美国-洛杉矶③ - 铁蛋加速, server: mmmm2024-cm1.tiedan168.xyz, port: 32163, type: ss, cipher: chacha20-ietf-poly1305, password: c2f7acbb-9168-4ab8-836f-87587a6f2c14, udp: true}
+- {name: 🇺🇸 US美国-洛杉矶④ - 铁蛋加速, server: mmmm2024-cm1.tiedan168.xyz, port: 32164, type: ss, cipher: chacha20-ietf-poly1305, password: c2f7acbb-9168-4ab8-836f-87587a6f2c14, udp: true}
+- {name: 🇺🇸 美国1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19661, type: ss, cipher: chacha20-ietf-poly1305, password: d14ffe9a-5136-4eec-a50d-250d89f673fd, udp: true}
+- {name: 🇺🇸 美国2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19661, type: ss, cipher: chacha20-ietf-poly1305, password: d14ffe9a-5136-4eec-a50d-250d89f673fd, udp: true}
+- {name: 🇺🇸 美国01（高速） - CloudFox, server: us01.x.woyh.xyz, port: 38670, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 96ef0cb0-92d3-43b1-8de2-38421484cf82, udp: true}
+- {name: 🇺🇸 美国02（高速） - CloudFox, server: us02.x.woyh.xyz, port: 38672, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 96ef0cb0-92d3-43b1-8de2-38421484cf82, udp: true}
+- {name: 🇺🇸 美国03（IPLC稳定） - CloudFox, server: us03.x.woyh.xyz, port: 38673, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 96ef0cb0-92d3-43b1-8de2-38421484cf82, udp: true}
+- {name: 🇺🇸 美国04（IPLC稳定） - CloudFox, server: us04.x.woyh.xyz, port: 38674, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 96ef0cb0-92d3-43b1-8de2-38421484cf82, udp: true}
+- {name: 🇺🇸 美国05（GPT专用） - CloudFox, server: us05.x.woyh.xyz, port: 38675, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 96ef0cb0-92d3-43b1-8de2-38421484cf82, udp: true}
+- {name: 🇺🇸 美国06（GPT专用） - CloudFox, server: us06.x.woyh.xyz, port: 38676, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 96ef0cb0-92d3-43b1-8de2-38421484cf82, udp: true}
