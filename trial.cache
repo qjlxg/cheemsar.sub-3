@@ -1,196 +1,69 @@
-[bajie.pw]
-name  八戒
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(bsjldrpq103@tmpbox.net): {'message': '验证码有误'}
+[shop1.proxylink.xyz]
 
-[www.dageyun.net]
-banned_domains  tmail.ws
-name  
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(wnddkxamc780@tmail.ws)
+[bbjc.xyz]
 
-[apidagecloud.com]
+[app.cloudlion.me]
+name  新狮云
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"pjxucgrhr650@mxl001.win","success":"false"}'
+更新订阅链接/续费续签失败  注册失败(kyqeuft979@gmail.com): 'NoneType' object is not subscriptable
 
-[58rocket.com]
+[www.totyun.org]
+
+[taomao.xyz]
+
+[小豆加速.xyz]
+
+[suixincloud.top]
+
+[ktcat.ru]
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(unzeqxry556@bareed.ws): {'message': '邮箱后缀不处于白名单中'}
+
+[sheepcloud.xyz]
+
+[a1.qjfjc.top]
+
+[cloud.gyyun.top]
+
+[snangua.com]
+name  三瓜云
+type  v2board
+更新订阅链接/续费续签失败  注册失败(nxttguskh907@gmail.com): 'NoneType' object is not subscriptable
+
+[yyds.emovpns.top]
+name  EMO
+type  v2board
+更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
+
+[172.104.188.109:8077]
+
+[gougouvpn.top]
+
+[www.fawncloud.one]
+
+[www.chituma.buzz]
+
+[www.kuaidog006.top]
 buy  pass
-email  toclmhg697@gmail.com
-name  火箭云
+email  gcmonuab75@gmail.com
+name  快狗云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://st-sub.fly.dev/v2b/rock/api/v1/client/subscribe?token=21dd709f605a97463a1a0000b852fc3f
-time  2025-01-04 15:22:48.299162+08:00
+sub_url  https://www.kuaidog010.top/api/v1/client/subscribe?token=ce85b44016ee3ca3531ae2b93eb34117
+time  2025-01-04 15:56:36.200924+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[www.marslink.cc]
-name  MarsLink
+[便宜机场.co]
+name  便宜机场
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(lbhrtsvxo826@sharklasers.com): {'message': '图形验证码不正确请重新输入'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(xkljetao820@wfes.site): {'message': '验证码有误'}
 
-[8rkt.xyz]
-buy  pass
-email  vaswune140@gmail.com
-name  火箭云
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sub.588rocket.me/api/v1/client/subscribe?token=9d4875d33c55e91349b9f5ce980f170c
-time  2025-01-04 15:22:48.265724+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+[askahh.com]
 
-[marslink.org]
-name  MarsLink
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(qkxetyl173@xxxhi.cc): {'message': '图形验证码不正确请重新输入'}
+[cloud-port.xyz]
 
-[kapoksub.com]
+[www.sheepcloud.xyz]
 
-[miaona.xyz]
-name  Miaona!
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(zqpkesn683@grr.la): {'message': '验证码有误'}
+[qjfjc.top]
 
-[miaona.co]
-name  Miaona!
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"uhkfcgzia615@mail.wvwvw.tech","success":"false"}'
-
-[miaona.org]
-name  Miaona!
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(xtntlpibe915@guerrillamail.net): {'message': '验证码有误'}
-
-[sub.tomlink.org]
-
-[misakanetwork.top]
-
-[newsub.antlink.xyz]
-buy  pass
-email  iwrzcakiv897@gmail.com
-name  AntLink
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://abc.xhonor.top:9066/v2b/ant/api/v1/client/subscribe?token=5f66fe9642b56240074a4c614e9f77ee
-time  2025-01-04 15:22:47.792545+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[tomlink.org]
-
-[antlink.cc]
-buy  pass
-email  iyssstia321@gmail.com
-name  AntLink
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://abc.xhonor.top:9066/v2b/ant/api/v1/client/subscribe?token=41f66df6a49d13870dcf8d6179f24704
-time  2025-01-04 15:22:47.049601+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[antlink.icu]
-buy  pass
-email  hoizkrl667@gmail.com
-name  AntLink
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://abc.xhonor.top:9066/v2b/ant/api/v1/client/subscribe?token=e3b1af22161be53ce89e357e785a9f9d
-time  2025-01-04 15:22:47.512877+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[v4speed.com]
-
-[mojie.pw]
-
-[latiao.club]
-name  辣条
-type  v2board
-更新订阅链接/续费续签失败  注册失败(qdgqlcgy461@gmail.com): 注册频繁，请等待 60000000000 分钟后再次尝试
-
-[hxlm.io]
-buy  pass
-email  gfatxtj685@gmail.com
-name  火星联盟
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://abc.xhonor.top:9066/v2b/hx/api/v1/client/subscribe?token=ee1b1c19823f4b58d7c9cda40a523ab0
-time  2025-01-04 15:22:47.474036+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[mojie.cyou]
-
-[mojie.best]
-
-[latiao.buzz]
-name  辣条
-type  v2board
-更新订阅链接/续费续签失败  注册失败(gbzrrozp247@gmail.com): 注册频繁，请等待 60000000000 分钟后再次尝试
-
-[mojie.link]
-name  Loading...
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(swsvuubp30@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
-
-[hxlm.org]
-buy  pass
-email  qwtuaya859@gmail.com
-name  火星联盟
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://abc.xhonor.top:9066/v2b/hx/api/v1/client/subscribe?token=8033a882d842c5c8a115c9baecbb9fc9
-time  2025-01-04 15:22:47.402363+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[mojie.me]
-
-[mojie.info]
-
-[latiao.us]
-name  辣条
-type  v2board
-更新订阅链接/续费续签失败  注册失败(jiaqmncq503@gmail.com): 注册频繁，请等待 60000000000 分钟后再次尝试
-
-[xftld.org]
-
-[v2panel.ngcloud.art]
-
-[glados.one]
-name  
-type  v2board
-更新订阅链接/续费续签失败  注册失败(aanvjbm93@gmail.com): 没有权限
-
-[glados.network]
-name  
-type  v2board
-更新订阅链接/续费续签失败  注册失败(zodlajgl832@gmail.com): 没有权限
-
-[bityun.org]
-name  🏆 比特云
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"wlstlffhs381@444.cvrmpr.shop","success":"false"}'
-
-[dns.github.bet]
-
-[www.58mdss.com]
-name  MDSSCLOUD
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"xztterocu692@444.cvrmpr.shop","success":"false"}'
-
-[www.99catnet.com]
-name  CATNET
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(mhydzojrb101@disbox.net): {'message': '图形验证码不正确请重新输入'}
-
-[dash.catnet.uk]
-
-[mdss.cloud]
-name  MDSSCLOUD
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"quqedki761@965.tmmad.com","success":"false"}'
-
-[88catnet.com]
-name  CATNET
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(pckvzjzzf603@wfes.site): {'message': '图形验证码不正确请重新输入'}
-
-[shop2.proxylink.xyz]
-
-[ou12x.xyz]
+[www.lingh.cfd]
