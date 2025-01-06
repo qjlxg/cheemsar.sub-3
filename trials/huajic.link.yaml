@@ -10,13 +10,17 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -24,16 +28,24 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇸🇬 Singapore 01 - DuckLink
-  - 🇸🇬 Singapore 02 - DuckLink
-  - 🇯🇵 Japan 01 - DuckLink
-  - 🇯🇵 Japan 02 - DuckLink
-  - 🇯🇵 Japan 05 - DuckLink
-  - 🇯🇵 Japan 06 - DuckLink
-  - 🇺🇸 United States 01 - DuckLink
-  - 🇺🇸 United States 02 - DuckLink
-  - 🇺🇸 United States 03 - DuckLink
-  - 🇺🇸 United States 04 - DuckLink
+  - 🇭🇰 香港-01|Trojan| ×1【V2】 - 滑稽场
+  - 🇭🇰 香港-01|V2RAY| ×1【V2】 - 滑稽场
+  - 🇭🇰 香港-05|Trojan| ×1【V2】 - 滑稽场
+  - 🇭🇰 香港-05|V2RAY| ×1【V2】 - 滑稽场
+  - 🇸🇬 新加坡-01|Trojan| ×1【V2】 - 滑稽场
+  - 🇸🇬 新加坡-01|V2RAY| ×1【V2】 - 滑稽场
+  - 🇯🇵 日本-03|Trojan| ×1【V2】 - 滑稽场
+  - 🇯🇵 日本-03|V2RAY| ×1【V2】 - 滑稽场
+  - 🇺🇸 美国-02|Trojan| ×1.5【V2】 - 滑稽场
+  - 🇺🇸 美国-05|Trojan| ×1【V2】 - 滑稽场
+  - 🇺🇸 美国-05|V2RAY| ×1【V2】 - 滑稽场
+  - 🇮🇳 印度-01|Trojan| ×1【V2】 - 滑稽场
+  - 🇮🇳 印度-01|V2RAY| ×1【V2】 - 滑稽场
+  - 🇳🇬 尼日利亚-01|V2ray| ×1【V2】 - 滑稽场
+  - 🇳🇱 荷兰-01|Trojan| ×1【V2】 - 滑稽场
+  - 🇳🇱 荷兰-01|V2RAY| ×1【V2】 - 滑稽场
+  - 🇻🇳 越南-01|Trojan| ×1.5【V2】 - 滑稽场
+  - 🇻🇳 越南-01|V2RAY| ×1.5【V2】 - 滑稽场
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -50,7 +62,9 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
   - ✈️ ‍起飞
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
@@ -58,10 +72,12 @@ proxy-groups:
   - 🇺🇸 ‍美国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -70,57 +86,91 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇸🇬 ‍新加坡
+- name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇸🇬 Singapore 01 - DuckLink
-  - 🇸🇬 Singapore 02 - DuckLink
-- name: 🇯🇵 ‍日本
+  - 🇭🇰 香港-01|Trojan| ×1【V2】 - 滑稽场
+  - 🇭🇰 香港-01|V2RAY| ×1【V2】 - 滑稽场
+  - 🇭🇰 香港-05|Trojan| ×1【V2】 - 滑稽场
+  - 🇭🇰 香港-05|V2RAY| ×1【V2】 - 滑稽场
+- name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇯🇵 Japan 01 - DuckLink
-  - 🇯🇵 Japan 02 - DuckLink
-  - 🇯🇵 Japan 05 - DuckLink
-  - 🇯🇵 Japan 06 - DuckLink
+  - 🇸🇬 新加坡-01|Trojan| ×1【V2】 - 滑稽场
+  - 🇸🇬 新加坡-01|V2RAY| ×1【V2】 - 滑稽场
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇯🇵 日本-03|Trojan| ×1【V2】 - 滑稽场
+  - 🇯🇵 日本-03|V2RAY| ×1【V2】 - 滑稽场
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id004
-  - 🇺🇸 United States 01 - DuckLink
-  - 🇺🇸 United States 02 - DuckLink
-  - 🇺🇸 United States 03 - DuckLink
-  - 🇺🇸 United States 04 - DuckLink
+  proxies: &id005
+  - 🇺🇸 美国-02|Trojan| ×1.5【V2】 - 滑稽场
+  - 🇺🇸 美国-05|Trojan| ×1【V2】 - 滑稽场
+  - 🇺🇸 美国-05|V2RAY| ×1【V2】 - 滑稽场
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id006
+  - 🇮🇳 印度-01|Trojan| ×1【V2】 - 滑稽场
+  - 🇮🇳 印度-01|V2RAY| ×1【V2】 - 滑稽场
+  - 🇳🇬 尼日利亚-01|V2ray| ×1【V2】 - 滑稽场
+  - 🇳🇱 荷兰-01|Trojan| ×1【V2】 - 滑稽场
+  - 🇳🇱 荷兰-01|V2RAY| ×1【V2】 - 滑稽场
+  - 🇻🇳 越南-01|Trojan| ×1.5【V2】 - 滑稽场
+  - 🇻🇳 越南-01|V2RAY| ×1.5【V2】 - 滑稽场
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id003
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id004
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id005
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id006
 proxies:
-- {name: 🇯🇵 Japan 01 - DuckLink, server: jp.ducklink.top, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 1edab861-3658-45c4-a90f-e4b06bd8a6c8, udp: true}
-- {name: 🇯🇵 Japan 02 - DuckLink, server: jp.ducklink.top, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: 1edab861-3658-45c4-a90f-e4b06bd8a6c8, udp: true}
-- {name: 🇯🇵 Japan 05 - DuckLink, server: jp.ducklink.top, port: 21005, type: ss, cipher: chacha20-ietf-poly1305, password: 1edab861-3658-45c4-a90f-e4b06bd8a6c8, udp: true}
-- {name: 🇯🇵 Japan 06 - DuckLink, server: jp.ducklink.top, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: 1edab861-3658-45c4-a90f-e4b06bd8a6c8, udp: true}
-- {name: 🇸🇬 Singapore 01 - DuckLink, server: sg.ducklink.top, port: 21201, type: ss, cipher: chacha20-ietf-poly1305, password: 1edab861-3658-45c4-a90f-e4b06bd8a6c8, udp: true}
-- {name: 🇸🇬 Singapore 02 - DuckLink, server: sg.ducklink.top, port: 21202, type: ss, cipher: chacha20-ietf-poly1305, password: 1edab861-3658-45c4-a90f-e4b06bd8a6c8, udp: true}
-- {name: 🇺🇸 United States 01 - DuckLink, server: cn.ducklink.top, port: 21501, type: ss, cipher: chacha20-ietf-poly1305, password: 1edab861-3658-45c4-a90f-e4b06bd8a6c8, udp: true}
-- {name: 🇺🇸 United States 02 - DuckLink, server: cn.ducklink.top, port: 21502, type: ss, cipher: chacha20-ietf-poly1305, password: 1edab861-3658-45c4-a90f-e4b06bd8a6c8, udp: true}
-- {name: 🇺🇸 United States 03 - DuckLink, server: cn.ducklink.top, port: 21503, type: ss, cipher: chacha20-ietf-poly1305, password: 1edab861-3658-45c4-a90f-e4b06bd8a6c8, udp: true}
-- {name: 🇺🇸 United States 04 - DuckLink, server: cn.ducklink.top, port: 21504, type: ss, cipher: chacha20-ietf-poly1305, password: 1edab861-3658-45c4-a90f-e4b06bd8a6c8, udp: true}
+- {name: 🇭🇰 香港-01|Trojan| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20062, type: trojan, password: 4028d747-061f-3234-9510-2a5481dbbac4, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-01|V2RAY| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20060, type: vmess, uuid: 4028d747-061f-3234-9510-2a5481dbbac4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk1.huajic.com, udp: true}
+- {name: 🇭🇰 香港-05|Trojan| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20025, type: trojan, password: 4028d747-061f-3234-9510-2a5481dbbac4, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-05|V2RAY| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20026, type: vmess, uuid: 4028d747-061f-3234-9510-2a5481dbbac4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk5.huajic.icu, udp: true}
+- {name: 🇸🇬 新加坡-01|Trojan| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20027, type: trojan, password: 4028d747-061f-3234-9510-2a5481dbbac4, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-01|V2RAY| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20028, type: vmess, uuid: 4028d747-061f-3234-9510-2a5481dbbac4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgp.huajic.icu, udp: true}
+- {name: 🇯🇵 日本-03|Trojan| ×1【V2】 - 滑稽场, server: jp3sdd.huajiccloud.us, port: 20070, type: trojan, password: 4028d747-061f-3234-9510-2a5481dbbac4, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-03|V2RAY| ×1【V2】 - 滑稽场, server: jp3sdd.huajiccloud.us, port: 20071, type: vmess, uuid: 4028d747-061f-3234-9510-2a5481dbbac4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度-01|Trojan| ×1【V2】 - 滑稽场, server: indsd1.huajiccloud.us, port: 20021, type: trojan, password: 4028d747-061f-3234-9510-2a5481dbbac4, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度-01|V2RAY| ×1【V2】 - 滑稽场, server: indsd1.huajiccloud.us, port: 20022, type: vmess, uuid: 4028d747-061f-3234-9510-2a5481dbbac4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇳🇬 尼日利亚-01|V2ray| ×1【V2】 - 滑稽场, server: khsd.huajiccloud.us, port: 57753, type: vmess, uuid: 4028d747-061f-3234-9510-2a5481dbbac4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-02|Trojan| ×1.5【V2】 - 滑稽场, server: ussd2.huajiccloud.us, port: 28387, type: trojan, password: 4028d747-061f-3234-9510-2a5481dbbac4, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-05|Trojan| ×1【V2】 - 滑稽场, server: us5sd.huajiccloud.us, port: 37229, type: trojan, password: 4028d747-061f-3234-9510-2a5481dbbac4, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-05|V2RAY| ×1【V2】 - 滑稽场, server: us5sd.huajiccloud.us, port: 14381, type: vmess, uuid: 4028d747-061f-3234-9510-2a5481dbbac4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us05.huajic.icu, udp: true}
+- {name: 🇳🇱 荷兰-01|Trojan| ×1【V2】 - 滑稽场, server: nl1sd1.huajiccloud.us, port: 20069, type: trojan, password: 4028d747-061f-3234-9510-2a5481dbbac4, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 荷兰-01|V2RAY| ×1【V2】 - 滑稽场, server: nl1sd1.huajiccloud.us, port: 20065, type: vmess, uuid: 4028d747-061f-3234-9510-2a5481dbbac4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南-01|Trojan| ×1.5【V2】 - 滑稽场, server: vn1sd.huajiccloud.us, port: 20026, type: trojan, password: 4028d747-061f-3234-9510-2a5481dbbac4, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南-01|V2RAY| ×1.5【V2】 - 滑稽场, server: vn1sd.huajiccloud.us, port: 20035, type: vmess, uuid: 4028d747-061f-3234-9510-2a5481dbbac4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

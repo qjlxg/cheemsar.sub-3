@@ -13,11 +13,13 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -27,6 +29,7 @@ proxy-groups:
   - HK
   - SG
   - JP
+  - US
   - Other
 - name: 🛩️ ‍墙内
   type: select
@@ -51,10 +54,12 @@ proxy-groups:
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
@@ -81,10 +86,15 @@ proxy-groups:
   tolerance: 100
   use: &id004
   - JP
+- name: 🇺🇸 ‍美国
+  type: url-test
+  tolerance: 300
+  use: &id005
+  - US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 100
-  use: &id005
+  use: &id006
   - Other
 - name: 👆🏻 ‍指定
   type: select
@@ -98,42 +108,54 @@ proxy-groups:
 - name: 👆🏻🇯🇵 ‍日本
   type: select
   use: *id004
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   use: *id005
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id006
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/www.diaomaojichang.top/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/huajic.link/HK.yaml
     interval: 180
-    path: trials_providers/www.diaomaojichang.top/HK.yaml
+    path: trials_providers/huajic.link/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/www.diaomaojichang.top/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/huajic.link/SG.yaml
     interval: 180
-    path: trials_providers/www.diaomaojichang.top/SG.yaml
+    path: trials_providers/huajic.link/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/www.diaomaojichang.top/JP.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/huajic.link/JP.yaml
     interval: 180
-    path: trials_providers/www.diaomaojichang.top/JP.yaml
+    path: trials_providers/huajic.link/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/huajic.link/US.yaml
+    interval: 180
+    path: trials_providers/huajic.link/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/www.diaomaojichang.top/Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-3/main/trials_providers/huajic.link/Other.yaml
     interval: 180
-    path: trials_providers/www.diaomaojichang.top/Other.yaml
+    path: trials_providers/huajic.link/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
