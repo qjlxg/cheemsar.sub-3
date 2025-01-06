@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡-01|Trojan| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20027, tfo: true, type: trojan, password: 4028d747-061f-3234-9510-2a5481dbbac4, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡-01|V2RAY| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20028, tfo: true, type: vmess, uuid: 4028d747-061f-3234-9510-2a5481dbbac4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgp.huajic.icu, udp: true}
