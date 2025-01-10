@@ -1,0 +1,17 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 9e749554-0cec-4812-98fb-04fdd99d2e4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 9e749554-0cec-4812-98fb-04fdd99d2e4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35661, type: vmess, uuid: 9e749554-0cec-4812-98fb-04fdd99d2e4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: dc39c8db-8285-4875-a31a-27762e134de7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: dc39c8db-8285-4875-a31a-27762e134de7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vmess]新加坡02-V4-流媒体 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: c016c8c4-6413-4f96-9f84-2eef095f78f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /0, headers: {Host: sg0002.hy-2.top}}, udp: true}
+- {name: 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 43461, type: ss, cipher: aes-128-gcm, password: bcfadf7b-1959-49ac-94b0-34601f7e8931, udp: true}
+- {name: 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 10420, type: vmess, uuid: bcfadf7b-1959-49ac-94b0-34601f7e8931, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 29611, type: ss, cipher: chacha20-ietf-poly1305, password: bcfadf7b-1959-49ac-94b0-34601f7e8931, udp: true}
+- {name: 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 25878, type: vmess, uuid: bcfadf7b-1959-49ac-94b0-34601f7e8931, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x] 新加坡 IEPL专线NO1 - needss云', server: i.needss.top, port: 20015, type: vmess, uuid: fa9b0763-b6c1-451a-a60b-e181a2c868c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x] 新加坡 IEPL专线NO2 - needss云', server: i.needss.top, port: 20015, type: vmess, uuid: fa9b0763-b6c1-451a-a60b-e181a2c868c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x] 新加坡 IEPL专线NO3 - needss云', server: i.needss.top, port: 44412, type: vmess, uuid: fa9b0763-b6c1-451a-a60b-e181a2c868c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x] 新加坡 IEPL专线NO4 - needss云', server: i.needss.top, port: 44412, type: vmess, uuid: fa9b0763-b6c1-451a-a60b-e181a2c868c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

@@ -1,0 +1,55 @@
+%YAML 1.1
+---
+proxies:
+- &id011 {name: 🇸🇬 新加坡01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 9e749554-0cec-4812-98fb-04fdd99d2e4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id012 {name: 🇸🇬 新加坡02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 9e749554-0cec-4812-98fb-04fdd99d2e4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id013 {name: 🇸🇬 新加坡03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35661, type: vmess, uuid: 9e749554-0cec-4812-98fb-04fdd99d2e4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: 🇸🇬 新加坡NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: dc39c8db-8285-4875-a31a-27762e134de7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id002 {name: 🇸🇬 新加坡NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: dc39c8db-8285-4875-a31a-27762e134de7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- *id001
+- *id002
+- {name: 🇸🇬 新加坡节点1 - 老牛云, server: 183.232.159.51, port: 49392, type: ss, cipher: chacha20-ietf-poly1305, password: e937a49d-47a8-45c2-b199-4a5dbe283f92, udp: true}
+- {name: 🇸🇬 新加坡节点2 - 老牛云, server: 183.232.159.51, port: 53062, type: ss, cipher: chacha20-ietf-poly1305, password: e937a49d-47a8-45c2-b199-4a5dbe283f92, udp: true}
+- {name: 🇸🇬 新加坡-01 - 畅游无限, server: 54.255.90.82, port: 8443, type: vmess, uuid: b2b3bbfd-7a3d-4865-8d92-21797f776531, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇸🇬 新加坡-02 - 畅游无限, server: 52.77.251.119, port: 8443, type: vmess, uuid: b2b3bbfd-7a3d-4865-8d92-21797f776531, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇸🇬 新加坡-03 - 畅游无限, server: 47.129.143.100, port: 8443, type: vmess, uuid: b2b3bbfd-7a3d-4865-8d92-21797f776531, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇸🇬 新加坡-04 - 畅游无限, server: 13.229.121.26, port: 8443, type: vmess, uuid: b2b3bbfd-7a3d-4865-8d92-21797f776531, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇸🇬 新加坡-05 - 畅游无限, server: 18.138.35.8, port: 8443, type: vmess, uuid: b2b3bbfd-7a3d-4865-8d92-21797f776531, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇸🇬 新加坡-06 - 畅游无限, server: 18.140.237.57, port: 8443, type: vmess, uuid: b2b3bbfd-7a3d-4865-8d92-21797f776531, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: ad8bd48eaffa0fcf63bfa3b2892fa3eb.node.tro.node-is.green, port: 46889, type: trojan, password: 763d0d0f-0215-4f1b-846b-442ff025571e, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: d34f9392feb2520dc301b45419694b4c.node.tro.node-is.green, port: 47726, type: trojan, password: 763d0d0f-0215-4f1b-846b-442ff025571e, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡1 - KUGOU云', server: vip1.kugovip.xyz, port: 50114, type: vmess, uuid: 3f5e7895-ce92-45a5-adef-3aeabae6ec32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡2 - KUGOU云', server: vip1.kugovip.xyz, port: 50115, type: vmess, uuid: 3f5e7895-ce92-45a5-adef-3aeabae6ec32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡3 - KUGOU云', server: vip1.kugovip.xyz, port: 50110, type: vmess, uuid: 3f5e7895-ce92-45a5-adef-3aeabae6ec32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [1x]CM 隧道 新加坡1 - KUGOU云', server: xd1.kugovip.xyz, port: 18591, type: vmess, uuid: 3f5e7895-ce92-45a5-adef-3aeabae6ec32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [1x]CM 隧道 新加坡2 - KUGOU云', server: xd1.kugovip.xyz, port: 18589, type: vmess, uuid: 3f5e7895-ce92-45a5-adef-3aeabae6ec32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id014 {name: '🇸🇬 [vmess]新加坡02-V4-流媒体 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: c016c8c4-6413-4f96-9f84-2eef095f78f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /0, headers: {Host: sg0002.hy-2.top}}, udp: true}
+- &id003 {name: 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 43461, type: ss, cipher: aes-128-gcm, password: bcfadf7b-1959-49ac-94b0-34601f7e8931, udp: true}
+- &id004 {name: 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 10420, type: vmess, uuid: bcfadf7b-1959-49ac-94b0-34601f7e8931, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id005 {name: 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 29611, type: ss, cipher: chacha20-ietf-poly1305, password: bcfadf7b-1959-49ac-94b0-34601f7e8931, udp: true}
+- &id006 {name: 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 25878, type: vmess, uuid: bcfadf7b-1959-49ac-94b0-34601f7e8931, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id007 {name: '🇸🇬 [3x] 新加坡 IEPL专线NO1 - needss云', server: i.needss.top, port: 20015, type: vmess, uuid: fa9b0763-b6c1-451a-a60b-e181a2c868c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id008 {name: '🇸🇬 [3x] 新加坡 IEPL专线NO2 - needss云', server: i.needss.top, port: 20015, type: vmess, uuid: fa9b0763-b6c1-451a-a60b-e181a2c868c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id009 {name: '🇸🇬 [3x] 新加坡 IEPL专线NO3 - needss云', server: i.needss.top, port: 44412, type: vmess, uuid: fa9b0763-b6c1-451a-a60b-e181a2c868c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id010 {name: '🇸🇬 [3x] 新加坡 IEPL专线NO4 - needss云', server: i.needss.top, port: 44412, type: vmess, uuid: fa9b0763-b6c1-451a-a60b-e181a2c868c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01 - meiguis, server: pu003.xccccao.com, port: 38603, type: ss, cipher: chacha20-ietf-poly1305, password: d76a1b91-a13b-4d30-9e49-382d8d41ebe6, udp: true}
+- *id003
+- *id004
+- *id005
+- *id006
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: f302a0af-6af1-3f15-a76a-f1408c2660d6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 新加坡[02] - Heima', server: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, port: 443, type: trojan, password: f39df4b4-1bad-45f5-b60d-5a93f1f5a8b2, skip-cert-verify: true, udp: true}
+- *id007
+- *id008
+- *id009
+- *id010
+- {name: 🇸🇬 新加坡一 - LIME, server: 01.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: a615a8a5-2fa9-46b4-bb82-69d9c63d769d, udp: true}
+- {name: 🇸🇬 新加坡二 - LIME, server: 02.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: a615a8a5-2fa9-46b4-bb82-69d9c63d769d, udp: true}
+- {name: 🇸🇬 新加坡三 - LIME, server: 03.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: a615a8a5-2fa9-46b4-bb82-69d9c63d769d, udp: true}
+- {name: 🇸🇬 新加坡四 - LIME, server: 04.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: a615a8a5-2fa9-46b4-bb82-69d9c63d769d, udp: true}
+- {name: 🇸🇬 新加坡五 - LIME, server: 05.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: a615a8a5-2fa9-46b4-bb82-69d9c63d769d, udp: true}
+- {name: 🇸🇬 新加坡六 - LIME, server: 06.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: a615a8a5-2fa9-46b4-bb82-69d9c63d769d, udp: true}
+- *id011
+- *id012
+- *id013
+- *id014

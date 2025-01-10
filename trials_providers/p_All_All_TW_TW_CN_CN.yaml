@@ -1,0 +1,12 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师专线, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: dc39c8db-8285-4875-a31a-27762e134de7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师专线, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: dc39c8db-8285-4875-a31a-27762e134de7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: 9a09e95b-9a9c-4cd3-8df2-f7bc0c7dea5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
+- {name: '🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: c016c8c4-6413-4f96-9f84-2eef095f78f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af323d, headers: {Host: tw02.hy2.one}}, udp: true}
+- {name: 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 13255, type: vmess, uuid: bcfadf7b-1959-49ac-94b0-34601f7e8931, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 29299, type: vmess, uuid: bcfadf7b-1959-49ac-94b0-34601f7e8931, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 53497, type: vmess, uuid: bcfadf7b-1959-49ac-94b0-34601f7e8931, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x] 台湾 IEPL专线NO1 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: fa9b0763-b6c1-451a-a60b-e181a2c868c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x] 台湾 IEPL专线NO2 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: fa9b0763-b6c1-451a-a60b-e181a2c868c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
