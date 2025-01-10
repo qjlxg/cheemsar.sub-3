@@ -1,0 +1,15 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: be8d15f6-336e-42bb-8df8-51fe72005a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: be8d15f6-336e-42bb-8df8-51fe72005a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-01 - 畅游无限, server: 54.248.207.185, port: 8443, type: vmess, uuid: faa876c1-544a-4623-9d9a-b53f87ff1376, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇯🇵 日本-02 - 畅游无限, server: 18.183.82.123, port: 8443, type: vmess, uuid: faa876c1-544a-4623-9d9a-b53f87ff1376, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: 0e7861ce6b2da99b5c44b9a1420a4eee.node.tro.node-is.green, port: 43056, type: trojan, password: 1f0d48d0-1c0d-4720-aeee-840e64d2e09c, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: dcbbcddba7b00c3e1195c30aeac2936e.node.tro.node-is.green, port: 40712, type: trojan, password: 1f0d48d0-1c0d-4720-aeee-840e64d2e09c, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 0867edce-b176-45de-882c-67b3692d9691, udp: true}
+- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 0867edce-b176-45de-882c-67b3692d9691, udp: true}
+- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 0867edce-b176-45de-882c-67b3692d9691, udp: true}
+- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 0867edce-b176-45de-882c-67b3692d9691, udp: true}
+- {name: 🇯🇵 日本01 - meiguis, server: pu002.xccccao.com, port: 38605, type: ss, cipher: chacha20-ietf-poly1305, password: 3c9adab2-cffc-400e-a704-7f62b892dad8, udp: true}
+- {name: '🇯🇵 日本[01] - Heima', server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: da52a914-03bc-49b3-b02f-935a11d8bf88, udp: true}
