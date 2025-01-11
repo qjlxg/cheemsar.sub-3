@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 844eec5e-bc0d-4262-ae04-e0ad62efdcb1, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: c53e982d-84f1-453f-8418-e6e236027c11, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}

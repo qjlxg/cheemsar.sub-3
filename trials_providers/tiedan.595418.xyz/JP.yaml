@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 JP日本-东京① - 铁蛋加速, server: an-cm1.tiedandddd.shop, port: 32141, type: ss, cipher: chacha20-ietf-poly1305, password: ff51ce64-98fc-455f-8f71-5cc8282c3bac, udp: true}
+- {name: 🇯🇵 JP日本-东京② - 铁蛋加速, server: dddd2024.zj-zz-cm2.tiedandddd.shop, port: 32142, type: ss, cipher: chacha20-ietf-poly1305, password: ff51ce64-98fc-455f-8f71-5cc8282c3bac, udp: true}
+- {name: 🇯🇵 JP日本-大阪③ - 铁蛋加速, server: cccc2024-zm1.tiedan168.xyz, port: 32143, type: ss, cipher: chacha20-ietf-poly1305, password: ff51ce64-98fc-455f-8f71-5cc8282c3bac, udp: true}
+- {name: 🇯🇵 JP日本-大阪④ - 铁蛋加速, server: cccc2024-zm2.tiedan168.xyz, port: 32144, type: ss, cipher: chacha20-ietf-poly1305, password: ff51ce64-98fc-455f-8f71-5cc8282c3bac, udp: true}
